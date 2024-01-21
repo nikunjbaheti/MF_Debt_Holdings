@@ -1,27 +1,21 @@
-name: Run Python Script After Another Workflow
+name: Run Python Script
 
 on:
-  workflow_run:
-    workflows: ["Run Python Scripts and Commit CSV Files"]
-    types:
-      - completed
+  repository_dispatch:
+    types: [custom-event]
 
 jobs:
-  run_python_script:
+  run-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout Repository B
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-
-      - name: Check for CSV Files
+		
+	  - name: Check for CSV Files
         run: |
           if [ -n "$(find . -maxdepth 1 -name '*.csv' -print -quit)" ]; then
             echo "CSV files found. Deleting..."
@@ -39,12 +33,17 @@ jobs:
           git add .
           git commit -m "Delete CSV files"
           git push
+		  
+	  - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests
 
       - name: Run Python Script
-        run: |
-          python DebtHoldings.py
-
-      - name: Commit CSV files
+        run: python DebtHoldings.py
+		
+		
+	  - name: Commit CSV files
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
