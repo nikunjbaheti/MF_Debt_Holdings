@@ -1,12 +1,30 @@
 import requests
 import csv
 
+def fetch_numbers_from_url(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+
+        # Assuming the URL returns a CSV file with dynamic numbers in the first column
+        numbers = [row[0] for row in csv.reader(response.text.splitlines())]
+
+        return numbers
+
+    except requests.exceptions.RequestException as e:
+        print(f'Error fetching data from {url}: {e}')
+        return []
+
 def fetch_json_and_save_csv():
-    # Read dynamic numbers from StkCode.csv
-    with open('StkCode.csv', 'r') as csvfile:
-        reader = csv.reader(csvfile)
-        # Assuming dynamic numbers are in the first column as a list
-        dynamic_numbers = [row[0] for row in reader]
+    # Specify the URL for dynamic numbers
+    numbers_url = 'https://raw.githubusercontent.com/nikunjbaheti/MF_Holdings/main/modified_BSEData.csv'
+
+    # Fetch dynamic numbers from the URL
+    dynamic_numbers = fetch_numbers_from_url(numbers_url)
+
+    if not dynamic_numbers:
+        print('No dynamic numbers fetched. Exiting.')
+        return
 
     # Specify the CSV file name for output
     output_csv_filename = 'Debt Holdings.csv'
