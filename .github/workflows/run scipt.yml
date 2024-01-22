@@ -40,7 +40,9 @@ jobs:
           python -m pip install requests
 
       - name: Run Python Script
-        run: python DebtHoldings.py
+        run: |
+          python DebtHoldings.py
+          python Data_clean.py
 
       - name: Commit CSV files
         run: |
