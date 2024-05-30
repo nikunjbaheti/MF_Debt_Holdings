@@ -16,8 +16,9 @@ def fetch_numbers_from_url(url):
         return []
 
 def fetch_json_and_save_csv():
-    # Specify the URL for dynamic numbers
-    numbers_url = 'https://raw.githubusercontent.com/nikunjbaheti/MF_Holdings/main/StkCode.csv'
+    # Read the numbers_url from the StkCode.csv file
+    with open('StkCode.csv', 'r') as csvfile:
+        numbers_url = csvfile.readline().strip()
 
     # Fetch dynamic numbers from the URL
     dynamic_numbers = fetch_numbers_from_url(numbers_url)
