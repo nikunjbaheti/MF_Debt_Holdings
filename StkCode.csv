@@ -2706,11 +2706,6 @@ Stock Number,Stock Name
 132630,Gokaldas Exports Ltd
 295966,SAMHI Hotels Ltd
 308764,Honasa Consumer Ltd
-226076,TRIVENI TURBINE LTD
-302921,SJS Enterprises Pvt Limited
-277614,Jupiter Life Line Hospitals Ltd
-105533,Westlife Development Ltd
-117421,Butterfly Gandhimathi Appliances Ltd
 209078,EQ - NIPPON LIFE INDIA ASSET MANAGE
 132155,EQ - GAIL ( INDIA )LTD.
 242461,EQ - ADITYA BIRLA CAPITAL LTD
@@ -2727,19 +2722,6 @@ Stock Number,Stock Name
 132375,EQ - TIPS INDUSTRIES LTD.
 132514,EQ - INDRAPRASTHA GAS LTD.
 217376,EQ - LIC OF INDIA
-100173,GFL Limited
-301915,Inox Wind Energy Limited
-308021,NMDC Steel Ltd
-284184,PSP Projects Ltd
-310018,Netweb Technologies India
-218259,Oracle Corp
-301987,Glenmark Life Sciences Ltd
-307329,Blue Jet Healthcare Ltd.
-246089,3M Co
-315145,Solventum Corp
-122249,Mayur Uniquoters Ltd.
-105255,GMM Pfaudler Ltd.
-208365,ICICI Securities Ltd
 132134,EQ - BANK OF BARODA
 132822,EQ - VODAFONE IDEA LTD
 132754,EQ - GMR AIRPORTS INFRASTRUCTURE LIMITED
@@ -2812,6 +2794,7 @@ Stock Number,Stock Name
 100459,Procter & Gamble Hygiene and Health Care Limited
 216564,Prince Pipes & Fittings Limited
 223478,Mrs Bectors Food Specialities Limited
+117421,Butterfly Gandhimathi Appliances Ltd
 222055,Interglobe Aviation Limited
 132400,BIRLASOFT LIMITED
 100800,TATA CONSUMER PRODUCTS LIMITED
@@ -2842,6 +2825,7 @@ Stock Number,Stock Name
 208433,INOX India Limited
 209420,Tata Technologies Limited
 234556,CMS Info Systems Limited
+302921,SJS Enterprises Pvt Limited
 224849,ALEMBIC PHARMACEUTICALS LIMITED
 126951,Stylam Industries Ltd
 221645,Krishna Institute of Medical Sciences Ltd
@@ -2854,6 +2838,7 @@ Stock Number,Stock Name
 209063,Cyient DLM Ltd
 200019,Transformers & Rectifiers India Ltd
 274083,Landmark Cars Ltd
+226076,TRIVENI TURBINE LTD
 218929,Sai Silks Kalamandir Ltd
 310018,Netweb Technologies
 220260,Exicom Tele-Systems Ltd
@@ -2925,6 +2910,7 @@ Stock Number,Stock Name
 119580,EQ - HANUMAN TEA COMPANY LIMITED
 217791,EQ - WILLARD STORAGE BATTERY LTD.
 111196,EQ - CANFIN HOMES LTD.
+122249,Mayur Uniquoters Ltd.
 274045,Rainbow Childrens Medicare Ltd
 210174,General Insurance Corporation of India
 209097,Rites Ltd.
@@ -2983,7 +2969,9 @@ Stock Number,Stock Name
 316108,Sobha Ltd.
 315820,Sobha Ltd.
 210217,Healthcare Global Enterprises Ltd.
+301987,Glenmark Life Sciences Ltd
 302244,Krsnaa Diagnostics Ltd.
+307329,Blue Jet Healthcare Ltd.
 302427,Vijaya Diagnostic Centre Pvt Ltd.
 208099,Emcure Pharmaceuticals Ltd.
 124804,AUROBINDO PHARMA LTD
@@ -3069,6 +3057,7 @@ Stock Number,Stock Name
 132762,Action Construction Equipment Ltd.
 132443,Cera Sanitaryware Ltd.
 122205,Praj Industries Ltd.
+105255,GMM Pfaudler Ltd.
 218067,Mahindra Logistics Ltd.
 100730,NOCIL Ltd.
 200155,EQ - B.S. REFRIGERATORS LIMITED.
@@ -3101,6 +3090,7 @@ Stock Number,Stock Name
 303107,Sapphire Foods India Ltd.
 132209,THE JAMMU AND KASHMIR BANK LTD
 269404,Tube Investments Of India Limited
+208365,ICICI Securities Ltd
 229238,Affle (India) Ltd
 132689,PVR INOX Ltd
 303157,Rate Gain Travel Technologies Ltd
@@ -3123,6 +3113,8 @@ Stock Number,Stock Name
 208763,Mtar Technologies Limited
 274038,India Shelter Finance Corporation Ltd.
 200019,Transformers And Rectifiers (India) Ltd.
+105533,Westlife Development Ltd
+277614,Jupiter Life Line Hospitals Ltd
 302988,FSN E-Commerce Ventures Ltd
 132667,Suzlon Energy Ltd
 100101,Arvind Ltd
@@ -3516,6 +3508,7 @@ Stock Number,Stock Name
 284286,HASBRO INC COM
 298386,Federal Realty Investment Trust
 303391,Bath & Body Works Inc
+315145,Solventum Corp
 298335,Brown-Forman Corp
 298331,BorgWarner Inc
 298471,Paycom Software Inc
@@ -3556,6 +3549,7 @@ Stock Number,Stock Name
 122241,MM Forgings Ltd
 109627,Hindustan Dorr Oliver Ltd @
 131179,Arman Financial Services Ltd
+284184,PSP Projects Ltd
 274038,India Shelter Finance Corp Ltd
 109079,Gufic Biosciences Ltd.
 205250,RPG Life Sciences Limited
@@ -3646,6 +3640,7 @@ Stock Number,Stock Name
 308930,Newmont Corp
 219075,Freeport-McMoRan Inc
 301013,Globant SA
+246089,3M Co
 267052,Intercontinental Exchange
 229887,ECOLAB INC
 237044,Berkshire Hathway Inc. (US)
