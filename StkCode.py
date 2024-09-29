@@ -68,10 +68,7 @@ def main():
                     json_response = fetch_json_response(scheme_code)
                     if json_response:
                         stock_mapping = extract_stock_mapping(json_response)
-                        print(f"Stock mapping for scheme code {scheme_code}:\n{stock_mapping}")
                         append_to_csv(stk_csv_file_path, stock_mapping)
-                    else:
-                        print(f"Failed to fetch JSON response for scheme code {scheme_code}")
                 else:
                     print(f"Scheme code not found in row: {row}")
     except FileNotFoundError:
