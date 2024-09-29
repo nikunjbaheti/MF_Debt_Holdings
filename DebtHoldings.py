@@ -1,27 +1,26 @@
 import requests
 import csv
 
-def fetch_numbers_from_url(url):
+def fetch_numbers_from_csv(file_path):
     try:
-        response = requests.get(url)
-        response.raise_for_status()
-
-        # Assuming the URL returns a CSV file with dynamic numbers in the first column
-        numbers = [row[0] for row in csv.reader(response.text.splitlines())]
-
+        # Read the CSV file and extract the first column as dynamic numbers
+        with open(file_path, 'r') as csvfile:
+            csvreader = csv.reader(csvfile)
+            # Assuming the dynamic numbers are in the first column
+            numbers = [row[0] for row in csvreader]
+        
         return numbers
 
-    except requests.exceptions.RequestException as e:
-        print(f'Error fetching data from {url}: {e}')
+    except FileNotFoundError as e:
+        print(f'Error: {file_path} not found: {e}')
         return []
 
 def fetch_json_and_save_csv():
-    # Read the numbers_url from the StkCode.csv file
-    with open('StkCode.csv', 'r') as csvfile:
-        numbers_url = csvfile.readline().strip()
+    # Path to StkCode.csv file
+    stkcode_csv_path = 'StkCode.csv'
 
-    # Fetch dynamic numbers from the URL
-    dynamic_numbers = fetch_numbers_from_url(numbers_url)
+    # Fetch dynamic numbers from the CSV file
+    dynamic_numbers = fetch_numbers_from_csv(stkcode_csv_path)
 
     if not dynamic_numbers:
         print('No dynamic numbers fetched. Exiting.')
