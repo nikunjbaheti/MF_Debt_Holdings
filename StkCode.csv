@@ -2303,6 +2303,10 @@ Stock Number,Stock Name
 208045,Devyani International Ltd.
 301912,Clean Science and Technology Ltd.
 124200,Vinati Organics Ltd.
+100400,Tata Power Co Ltd
+217757,PNB Housing Finance Ltd
+122275,GE T&D India Ltd
+229365,Jio Financial Services Ltd
 100113,Steel Authority of India Ltd
 103310,Swan Energy Limited
 132832,Indiabulls Real Estate Ltd
@@ -2326,8 +2330,6 @@ Stock Number,Stock Name
 124709,NACL Industries Limited
 113377,MMTC Limited
 100387,Shree Cements Ltd
-217757,PNB Housing Finance Ltd
-229365,Jio Financial Services Ltd
 100620,EQ - GREAT EASTERN SHIPPING CO. LTD
 132296,EQ - GLENMARK PHARMACEUTICALS LTD.
 210258,EQ - ICICI PRUDENTIAL LIFE INSURA L
@@ -2381,7 +2383,6 @@ Stock Number,Stock Name
 112455,Lloyds Metals And Energy Limited
 100660,Glaxosmithkline Pharmaceuticals Ltd
 229218,Medi Assist Healthcare Services Ltd
-122275,GE T&D India Ltd
 311742,Doms Industries Ltd
 123457,Linde India Ltd
 132497,RADICO KHAITAN LTD
@@ -2482,7 +2483,6 @@ Stock Number,Stock Name
 314935,PREMIER ENERGIES LTD
 304102,BHARTI AIRTEL LTD (RIGHT 14/10/2021) (PARTLY PAID)
 209373,SYNGENE INTERNATIONAL LTD
-100400,Tata Power Co Ltd
 132898,Power Grid Corporation of India Ltd
 208238,Godrej Properties Ltd
 105200,Eicher Motors Ltd
@@ -3602,7 +3602,6 @@ Stock Number,Stock Name
 106285,EQ - BAYER CROPSCIENCE LTD.
 100660,EQ - GLAXOSMITHKLINE PHARMACEUTICA
 205250,RPG Life Sciences Limited
-274038,India Shelter Finance Corp Ltd
 221174,Honeywell Internation India Pvt Ltd
 287493,Veeva Systems Inc
 225194,Gilead Sciences Inc.
@@ -3662,6 +3661,7 @@ Stock Number,Stock Name
 120051,JAMNA AUTO INDUSTRIES LTD
 223430,VEDANT FASHIONS LTD
 314345,CEIGALL INDIA LTD
+274038,India Shelter Finance Corp Ltd
 100008,Amara Raja Energy and Mobility Ltd.
 314769,Ecos India Mobility & Hospitality Ltd.
 284503,ASK Automotive Ltd
@@ -4477,9 +4477,9 @@ Stock Number,Stock Name
 226627,SHARDA CROPCHEM LTD
 119600,CCL PRODUCTS INDIA LTD
 295757,CHEMCON SPECIALITY CHEMICALS LTD
+224849,Alembic Pharmaceuticals Ltd
 132741,Kamdhenu Limited
 104741,Indian Hume Pipe Company Limited
-224849,Alembic Pharmaceuticals Ltd
 132258,Transtream India.Com Ltd.
 305799,KFIN Technologies Pvt Ltd.
 284503,Ask Automotive Ltd.
@@ -4525,6 +4525,7 @@ Stock Number,Stock Name
 209492,UTI ASSET MANAGEMENT COMPANY Limited
 251791,Aptus Value Housing Finance India Ltd
 117206,Lumax Industries Limited
+228460,Bajaj Housing Finance Limited
 217889,Tata Motors Ltd (DVR)
 132648,Yes Bank Ltd.
 219442,Macrotech Developers Ltd.
