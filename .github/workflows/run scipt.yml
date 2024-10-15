@@ -15,6 +15,8 @@ jobs:
 
       - name: Set up Python
         uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'  # Ensure correct Python version is installed
 
       - name: Check for CSV Files
         run: |
@@ -24,16 +26,19 @@ jobs:
           else
             echo "No CSV files found. Skipping deletion."
             exit 0  # Exit successfully to skip the next steps
-          fi
-      - name: Install dependencies
+
+      - name: Install dependencies in virtual environment
         if: success()  # Only run this step if the previous step was successful
         run: |
-          python -m pip install --upgrade pip
-          python -m pip install requests pandas
+          python -m venv venv  # Create virtual environment
+          source venv/bin/activate  # Activate virtual environment
+          python -m pip install --upgrade pip  # Upgrade pip within venv
+          pip install requests pandas  # Install dependencies
 
       - name: Run Python Script
         if: success()  # Only run this step if the previous step was successful
         run: |
+          source venv/bin/activate  # Activate virtual environment
           python MFCode.py
           python StkCode.py
           python DebtHoldings.py
@@ -44,6 +49,6 @@ jobs:
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add *.csv  # Replace 'path/to/your/csv/files' with the actual path
+          git add *.csv  # Add CSV files
           git commit -m "Auto-commit CSV files" || true  # Continue even if there are no changes
           git push
