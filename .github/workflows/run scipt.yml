@@ -20,12 +20,14 @@ jobs:
 
       - name: Check for CSV Files
         run: |
+          echo "Checking for CSV files..."
           if [ -n "$(find . -maxdepth 1 -name '*.csv' -print -quit)" ]; then
             echo "CSV files found. Deleting..."
             find . -type f -name "*.csv" -delete
           else
             echo "No CSV files found. Skipping deletion."
             exit 0  # Exit successfully to skip the next steps
+          fi
 
       - name: Install dependencies in virtual environment
         if: success()  # Only run this step if the previous step was successful
