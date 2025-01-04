@@ -2351,8 +2351,6 @@ Stock Number,Stock Name
 284232,Happiest Minds Technologies Ltd.
 308764,Honasa Consumer Ltd.
 294914,Go Digit General Insurance Ltd.
-302988,FSN E-Commerce Ventures Ltd
-200091,Oil India Ltd
 131595,Capri Global Capital Limited
 132832,Equinox India Developments Limited
 221138,Krystal Integrated Services Limited
@@ -2361,6 +2359,8 @@ Stock Number,Stock Name
 190021,Bharat Rasayan Limited
 313834,Grasim Industries Ltd-RIGHT
 107685,Wipro Ltd
+302988,FSN E-Commerce Ventures Ltd
+200091,Oil India Ltd
 103310,Swan Energy Limited
 100113,Steel Authority of India Ltd
 132832,Indiabulls Real Estate Ltd
@@ -2413,7 +2413,6 @@ Stock Number,Stock Name
 295131,Sterling And Wilson Renewable Energy Limited
 316108,Sobha Limited
 318217,UPL Limited ^
-214816,Akums Drugs & Pharmaceuticals Ltd.
 105283,Kirloskar Pneumatic Ltd.
 100144,Finolex Cables Ltd.
 213672,Newgen Software Technologies Ltd.
@@ -2421,6 +2420,7 @@ Stock Number,Stock Name
 132804,Technocraft Industries (India) Ltd
 271022,UNIPARTS INDIA LIMITED
 280362,RADIANT CASH MANAGEMENT SERVICES LIMITED
+214816,Akums Drugs & Pharmaceuticals Ltd.
 301915,Inox Wind Ltd
 104614,Sarda Energy & Minerals Ltd.
 104212,Universal Cables Ltd
@@ -2757,6 +2757,9 @@ Stock Number,Stock Name
 284184,PSP Projects Ltd
 200057,Afcons Infrastructure Ltd.
 105255,GMM Pfaudler Ltd.
+209420,Tata Technologies Ltd.
+296214,Restaurant Brands Asia Ltd.
+275037,Elin Electronics Ltd.
 208766,Multi Commodity Exchange of India Ltd
 100124,Dr. Reddys Laboratories Ltd
 229238,Affle (India) Ltd
@@ -2771,9 +2774,6 @@ Stock Number,Stock Name
 313834,Grasim Industries Limited
 284184,PSP Projects Limited
 211129,Globsyn Technologies Ltd ** ^^
-209420,Tata Technologies Ltd.
-296214,Restaurant Brands Asia Ltd.
-275037,Elin Electronics Ltd.
 215477,Endurance Technologies Pvt. Ltd.
 117146,Usha Martin Ltd.
 100645,Deepak Fertilizers and Petrochemicals Corporation Ltd.
@@ -3786,8 +3786,9 @@ Stock Number,Stock Name
 315995,Grail Inc
 242153,Eureka Forbes Ltd.
 126947,La Opala RG Ltd.
-274038,India Shelter Finance Corp Ltd
 117385,Symphony Limited
+317635,Vishal Mega Mart Ltd.
+274038,India Shelter Finance Corp Ltd
 111196,CAN FIN HOMES LTD
 213838,PRESTIGE ESTATES PROJECTS LTD
 211130,GNA AXLES LTD
@@ -4627,8 +4628,8 @@ Stock Number,Stock Name
 235594,Northern Arc Capital Ltd.
 288476,Utkarsh Small Finance Bank Ltd.
 274083,Landmark Cars Ltd.
-216156,Ltimindtree Ltd
 132258,TRANSTREAM INDIA COM LTD
+216156,Ltimindtree Ltd
 131316,Sandur Laminates Ltd @
 239409,Crystal Cable Industries Ltd @
 239411,Tirrihannah Company Ltd @
@@ -4645,6 +4646,7 @@ Stock Number,Stock Name
 122275,GE Vernova T&D India Ltd.
 103101,Marathon Nextgen Realty Limited
 208690,MOIL Ltd
+250870,Inventurus Knowledge Solutions Limited
 300790,TARC Ltd.
 122108,Yuken India Ltd.
 314328,Forbes Precision Tools and Mach Pts Ltd.
@@ -4680,6 +4682,7 @@ Stock Number,Stock Name
 216147,Nuvoco Vistas Corp Limited
 251791,Aptus Value Housing Finance India Ltd
 289858,Manorama Industries Limited
+317635,Vishal Mega Mart Limited
 100295,VEDANTA LIMITED
 222055,INTERGLOBE AVIATION LIMITED
 132810,POWER FINANCE CORPORATION LIMITED
@@ -5734,6 +5737,7 @@ Stock Number,Stock Name
 218533,NARAYANA HRUDAYALAYA LTD
 274045,RAINBOW CHILDRENS MEDICARE LTD
 224849,ALEMBIC PHARMACEUTICALS LTD
+216719,Sanathan Textiles Ltd.
 100877,APOLLO TYRES LTD
 122074,ELGI EQUIPMENTS LTD
 100238,WHIRLPOOL OF INDIA LTD
