@@ -2312,6 +2312,12 @@ Stock Number,Stock Name
 249927,Gujarat Gas Co Ltd
 131531,Hatsun Agro Product Ltd
 100674,Sanofi India Ltd
+303180,Prudent Corporate Advisory Services Ltd
+132714,KEC International Ltd
+302988,FSN E-Commerce Ventures Ltd
+132689,PVR Inox Ltd
+132221,Sonata Software Ltd
+200091,Oil India Ltd
 114167,Ganesha Ecosphere Limited
 217667,SIP Technologies & Export Limited**
 217689,Magnasound (India) Limited**
@@ -2330,8 +2336,6 @@ Stock Number,Stock Name
 229238,Affle India Ltd
 100620,Great Eastern Shipping Co Ltd
 126797,Greenply Industries Ltd
-132221,Sonata Software Ltd
-132714,KEC International Ltd
 123025,Safari Industries (India) Ltd
 233156,Rossari Biotech Ltd
 209587,VRL Logistics Ltd
@@ -2339,7 +2343,6 @@ Stock Number,Stock Name
 105255,GMM Pfaudler Ltd
 232353,Rhi Magnesita India Ltd
 218761,Mold Tek Packaging Ltd
-303180,Prudent Corporate Advisory Services Ltd
 304682,TBO Tek Ltd
 308764,Honasa Consumer Ltd
 272156,Greenlam Industries Ltd
@@ -2347,7 +2350,6 @@ Stock Number,Stock Name
 100730,NOCIL Ltd
 288451,Fine Organic Industries Ltd
 100101,Arvind Ltd
-132689,PVR Inox Ltd
 316108,Sobha Ltd
 103100,EQ - PHOENIX MILLS LTD
 254493,EQ - PB FINTECH LTD
@@ -2412,8 +2414,6 @@ Stock Number,Stock Name
 221877,EQ - WAAREE ENERGIES LIMITED
 131344,EQ - CONTAINER CORP. OF INDIA LTD
 200091,EQ - OIL INDIA LTD.
-302988,FSN E-Commerce Ventures Ltd
-200091,Oil India Ltd
 132714,KEC INTERNATIONAL LTD
 225850,NIVA BUPA HEALTH INSURANCE COMPANY LTD
 250870,INVENTURUS KNOWLEDGE SOLUTIONS LTD
@@ -2422,13 +2422,14 @@ Stock Number,Stock Name
 221877,WAAREE ENERGIES LTD
 318678,ITC HOTELS LTD
 313834,GRASIM INDUSTRIES LTD (PARTLY PAID) (09-01-2024)
+214816,Akums Drugs & Pharmaceuticals Ltd.
+296214,Restaurant Brands Asia Ltd.
+109557,Garware Technical Fibres Ltd.
 209344,Sumitomo Chemical India Ltd.
 190021,Bharat Rasayan Ltd.
 237831,JSW Infrastructure Ltd.
 223187,Kaynes Technology India Ltd.
 221842,Creditaccess Grameen Ltd.
-214816,Akums Drugs & Pharmaceuticals Ltd.
-109557,Garware Technical Fibres Ltd.
 200019,Transformers And Rectifiers (India) Limited
 307332,Piramal Pharma Limited
 268618,LandT Technology Services Limited
@@ -2733,6 +2734,8 @@ Stock Number,Stock Name
 219700,Mazagon Dock Shipbuilders Ltd.
 310018,Netweb Technologies India Ltd.
 123457,Linde India Ltd
+209420,Tata Technologies Ltd.
+275037,Elin Electronics Ltd.
 250978,Suraksha Diagnostic Limited
 132867,V2 Retail Limited
 132478,UNITED BREWERIES LIMITED
@@ -2768,9 +2771,6 @@ Stock Number,Stock Name
 105355,Nesco Limited
 229617,Transrail Lighting Limited
 111034,Jindal Drilling And Industries Limited
-209420,Tata Technologies Ltd.
-296214,Restaurant Brands Asia Ltd.
-275037,Elin Electronics Ltd.
 215690,Gravita India Limited
 316108,Sobha Limited- Partly Paid up
 100850,EQ - INDIAN HOTELS COMPANY LTD.
@@ -3781,13 +3781,13 @@ Stock Number,Stock Name
 200067,D.B.Corp Limited
 124816,Natco Pharma Limited
 117300,Gujarat Industries Power Company Limited
+132689,PVR INOX Ltd.
+211130,GNA Axles Ltd
 100830,Colgate Palmolive (India) Ltd
 217842,Godrej Agrovet Ltd
 221661,Aadhar Housing Finance Ltd
 304112,Freshworks Inc
 117385,Symphony Limited
-211130,GNA Axles Ltd
-274038,India Shelter Finance Corp Ltd
 109496,ITD Cementation India Limited
 307636,Enviro Infra Engineers Limited
 100477,EQ - ASHOK LEYLAND LTD
@@ -4359,6 +4359,7 @@ Stock Number,Stock Name
 274045,Rainbow Children''s Medicare Limited
 319554,UPL Limited **
 272661,Suryoday Small Finance Bank Limited
+313296,Awfis Space Solutions Ltd
 315936,CapitalNumbers Infotech Limited
 132285,Geojit Financial Services Limited
 210039,Concord Biotech Ltd
@@ -4368,7 +4369,6 @@ Stock Number,Stock Name
 289858,Manorama Industries Limited
 122034,Shanthi Gears Limited
 130475,Tinna Rubber and Infrastructure Limited
-313296,Awfis Space Solutions Ltd
 312105,Entero Healthcare Solutions Limited
 277585,Inox Green Energy Services Ltd.
 305179,Harsha Engineers International Ltd.
@@ -6034,7 +6034,6 @@ Stock Number,Stock Name
 210859,EQ - TEJAS NETWORKS LTD.
 132754,GMR AIRPORTS LIMITED
 132754,Gmr Airports Ltd.
-132689,PVR INOX Ltd.
 244937,PTC INDUSTRIES LTD.
 104973,TI Financial Holding ltd.
 278701,Five Star Business Finance Ltd
