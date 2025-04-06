@@ -1291,6 +1291,104 @@ Stock Number,Stock Name
 219700,Mazagon Dock Shipbuilders Limited
 100645,Deepak Fertilizers and Petrochemicals Corporation Limited
 101423,Shaily Engineering Plastics Limited
+132174,ICICI Bank Ltd
+100850,Indian Hotels Co Ltd
+100049,Bharat Electronics Ltd
+132539,Uno Minda Ltd
+210072,Dixon Technologies (India) Ltd
+132343,TVS Motor Co Ltd
+100469,Federal Bank Ltd
+111243,Cholamandalam Investment and Finance Co Ltd
+218071,Max Healthcare Institute Ltd
+100800,Tata Consumer Products Ltd
+100488,Abbott India Ltd
+122205,Praj Industries Ltd
+100520,Mahindra & Mahindra Ltd
+100840,EIH Ltd
+132454,Bharti Airtel Ltd
+100400,Tata Power Co Ltd
+100034,Bajaj Finance Ltd
+123642,PI Industries Ltd
+100040,Aditya Birla Real Estate Ltd
+208280,HDFC Asset Management Company Ltd
+200132,Bajaj Auto Ltd
+220018,Oberoi Realty Ltd
+100002,ABB India Ltd
+132478,United Breweries Ltd
+280713,Crompton Greaves Consumer Electricals Ltd
+100043,Bata India Ltd
+279664,Global Health Ltd
+214179,Sona Blw Precision Forgings Ltd
+221842,Creditaccess Grameen Ltd
+132540,Tata Consultancy Services Ltd
+223187,Kaynes Technology India Ltd
+132644,J.K. Cement Ltd
+124200,Vinati Organics Ltd
+123395,3M India Ltd
+124715,Sun Pharmaceutical Industries Ltd
+132331,Ajanta Pharma Ltd
+209550,Varun Beverages Ltd
+100331,Pidilite Industries Ltd
+132667,Suzlon Energy Ltd
+100493,Bharat Forge Ltd
+254493,PB Fintech Ltd
+132541,Coforge Ltd
+208766,Multi Commodity Exchange Of India Ltd
+126612,Blue Dart Express Ltd
+100114,Titan Co Ltd
+100093,CG Power and Industrial Solutions Ltd
+100790,Nestle India Ltd
+122275,Ge Vernova T&D India Ltd
+311653,Cello World Ltd
+132504,Navin Fluorine International Ltd
+100550,Siemens Ltd
+132555,NTPC Ltd
+113375,Carborundum Universal Ltd
+200046,KNR Constructions Ltd
+132234,National Aluminium Co Ltd
+209492,UTI Asset Management Co Ltd
+117334,Samvardhana Motherson International Ltd
+223478,Mrs Bectors Food Specialities Ltd
+132755,Tech Mahindra Ltd
+210036,Computer Age Management Services Ltd
+209373,Syngene International Ltd
+100087,Cipla Ltd
+209902,Angel One Ltd
+132725,Solar Industries India Ltd
+216156,Ltimindtree Ltd
+207901,BSE Ltd
+224623,Indian Energy Exchange Ltd
+211385,SBI Life Insurance Co Ltd
+131344,Container Corporation Of India Ltd
+100182,Hero MotoCorp Ltd
+225998,TCI Express Ltd
+105537,Zee Entertainment Enterprises Ltd
+100233,Kajaria Ceramics Ltd
+100480,Cummins India Ltd
+317635,Vishal Mega Mart Ltd
+311742,Doms Industries Ltd
+100411,Thermax Ltd
+293665,Arvind Fashions Ltd
+210590,Persistent Systems Ltd
+100188,Hindustan Zinc Ltd
+100420,Torrent Pharmaceuticals Ltd
+207872,Bharti Hexacom Ltd
+221877,Waaree Energies Ltd
+100770,Tata Chemicals Ltd
+132500,Maruti Suzuki India Ltd
+132375,Tips Music Ltd
+132523,Biocon Ltd
+100180,HDFC Bank Ltd
+106401,Deepak Nitrite Ltd
+100247,Kotak Mahindra Bank Ltd
+100820,Asian Paints Ltd
+100825,Britannia Industries Ltd
+222055,Interglobe Aviation Ltd
+132538,Ultratech Cement Ltd
+124816,Natco Pharma Ltd
+100570,Tata Motors Ltd
+100325,Reliance Industries Ltd
+100124,Dr. Reddy's Laboratories Ltd
 123457,Linde India Ltd.
 132892,MOTILAL OSWAL FINANCIAL SERVICES LIMITED
 100092,CRISIL Ltd.
@@ -1319,11 +1417,9 @@ Stock Number,Stock Name
 130019,Jubilant Pharmova Limited
 132652,Karnataka Bank Ltd
 131335,Zydus Wellness Ltd
-100043,Bata India Ltd
 100312,Oil and Natural Gas Corporation Ltd.
 132531,Strides Pharma Science Ltd
 318188,One Source Specialty Pharma Ltd
-117334,Samvardhana Motherson International Ltd
 100125,EID Parry (India) Ltd
 100294,NCC Ltd
 274038,INDIA SHELTER FIN CORP LTD
@@ -1343,7 +1439,6 @@ Stock Number,Stock Name
 100265,Maharashtra Seamless Ltd
 100042,BASF India Ltd
 132832,Equinox India Developments Limited
-100770,Tata Chemicals Ltd
 285668,Capacite Infraprojects Limited
 220260,Exicom Tele-Systems Limited
 205704,The Orissa Minerals Development Co Ltd
@@ -1383,7 +1478,6 @@ Stock Number,Stock Name
 229218,Medi Assist Healthcare Services Limited
 223187,KAYNES TECHNOLOGY INDIA LIMITED
 305814,DCX Systems Limited
-132667,Suzlon Energy Ltd
 242461,Aditya Birla Capital ltd.
 267615,Aavas Financiers Ltd. (Formerly known as Au Housing Finance Ltd.)
 294253,Brainbees Solutions Limited (FirstCry)
@@ -1407,96 +1501,6 @@ Stock Number,Stock Name
 217379,ICICI Lombard General Insurance Co
 232592,LATENT VIEW ANALYTICS LIMITED
 209492,UTI Asset Management Company Ltd
-132174,ICICI Bank Ltd
-100850,Indian Hotels Co Ltd
-210072,Dixon Technologies (India) Ltd
-132539,Uno Minda Ltd
-100049,Bharat Electronics Ltd
-132343,TVS Motor Co Ltd
-100469,Federal Bank Ltd
-111243,Cholamandalam Investment and Finance Co Ltd
-100800,Tata Consumer Products Ltd
-100488,Abbott India Ltd
-218071,Max Healthcare Institute Ltd
-122205,Praj Industries Ltd
-100520,Mahindra & Mahindra Ltd
-100840,EIH Ltd
-132454,Bharti Airtel Ltd
-100400,Tata Power Co Ltd
-100034,Bajaj Finance Ltd
-132540,Tata Consultancy Services Ltd
-100040,Aditya Birla Real Estate Ltd
-208280,HDFC Asset Management Company Ltd
-123642,PI Industries Ltd
-200132,Bajaj Auto Ltd
-214179,Sona Blw Precision Forgings Ltd
-132478,United Breweries Ltd
-100002,ABB India Ltd
-279664,Global Health Ltd
-220018,Oberoi Realty Ltd
-280713,Crompton Greaves Consumer Electricals Ltd
-221842,Creditaccess Grameen Ltd
-124200,Vinati Organics Ltd
-132644,J.K. Cement Ltd
-124715,Sun Pharmaceutical Industries Ltd
-123395,3M India Ltd
-223187,Kaynes Technology India Ltd
-132331,Ajanta Pharma Ltd
-100331,Pidilite Industries Ltd
-209550,Varun Beverages Ltd
-100493,Bharat Forge Ltd
-208766,Multi Commodity Exchange Of India Ltd
-100114,Titan Co Ltd
-126612,Blue Dart Express Ltd
-100247,Kotak Mahindra Bank Ltd
-100093,CG Power and Industrial Solutions Ltd
-132541,Coforge Ltd
-100790,Nestle India Ltd
-311653,Cello World Ltd
-132500,Maruti Suzuki India Ltd
-254493,PB Fintech Ltd
-122275,Ge Vernova T&D India Ltd
-132504,Navin Fluorine International Ltd
-100550,Siemens Ltd
-132555,NTPC Ltd
-200046,KNR Constructions Ltd
-132234,National Aluminium Co Ltd
-132755,Tech Mahindra Ltd
-209492,UTI Asset Management Co Ltd
-223478,Mrs Bectors Food Specialities Ltd
-113375,Carborundum Universal Ltd
-210036,Computer Age Management Services Ltd
-100087,Cipla Ltd
-216156,Ltimindtree Ltd
-209902,Angel One Ltd
-209373,Syngene International Ltd
-225998,TCI Express Ltd
-211385,SBI Life Insurance Co Ltd
-100182,Hero MotoCorp Ltd
-132725,Solar Industries India Ltd
-224623,Indian Energy Exchange Ltd
-100233,Kajaria Ceramics Ltd
-131344,Container Corporation Of India Ltd
-100820,Asian Paints Ltd
-105537,Zee Entertainment Enterprises Ltd
-293665,Arvind Fashions Ltd
-100480,Cummins India Ltd
-210590,Persistent Systems Ltd
-100411,Thermax Ltd
-311742,Doms Industries Ltd
-100188,Hindustan Zinc Ltd
-100420,Torrent Pharmaceuticals Ltd
-100825,Britannia Industries Ltd
-132523,Biocon Ltd
-100180,HDFC Bank Ltd
-222055,Interglobe Aviation Ltd
-132375,Tips Music Ltd
-132538,Ultratech Cement Ltd
-124816,Natco Pharma Ltd
-100570,Tata Motors Ltd
-100325,Reliance Industries Ltd
-100124,Dr. Reddy's Laboratories Ltd
-132777,Info Edge (India) Ltd
 213597,Minda Corporation Limited
 223478,Mrs. Bectors Food Specialities Limited
 132811,Ahluwalia Contracts (India) Limited
@@ -1664,6 +1668,13 @@ Stock Number,Stock Name
 100164,Godrej Industries Limited
 100171,GHCL Limited
 304102,Bharti Airtel Limited - Partly Paid Shares
+100875,ITC Ltd
+100696,Hindustan Unilever Ltd
+132488,Divi's Laboratories Ltd
+217379,ICICI Lombard General Insurance Co Ltd
+132810,Power Finance Corporation Ltd
+100440,Hindalco Industries Ltd
+219300,Coal India Ltd
 311589,Red Tape Ltd
 223788,The Ethos Ltd.
 222264,PG Electroplast Ltd.
@@ -1767,13 +1778,6 @@ Stock Number,Stock Name
 117569,KEI INDUSTRIES LTD-INR 2 DEMAT EQ-INR 2
 318217,UPL Limited
 228347,Adani Gas Limited
-100875,ITC Ltd
-100696,Hindustan Unilever Ltd
-132488,Divi's Laboratories Ltd
-217379,ICICI Lombard General Insurance Co Ltd
-132810,Power Finance Corporation Ltd
-100440,Hindalco Industries Ltd
-219300,Coal India Ltd
 209550,VARUN BEVERAGES LIMITED
 208412,Indian Railway Catering &Tou. Corp. Ltd.
 280713,Crompton Greaves Cons Electrical Ltd.
@@ -2132,6 +2136,12 @@ Stock Number,Stock Name
 219460,Accenture Plc
 224342,Amazon com
 313495,Unicommerce eSolutions Ltd.
+117569,KEI Industries Ltd
+132424,Godrej Consumer Products Ltd
+223430,Vedant Fashions Ltd
+106943,J.B. Chemicals & Pharmaceuticals Ltd
+307332,Piramal Pharma Ltd
+209232,Bikaji Foods International Ltd
 132424,EQ - GODREJ CONSUMER PRODUCTS LTD
 217379,EQ - ICICI LOMBARD GENERAL INSURANC
 222055,EQ - INTERGLOBE AVIATION LTD
@@ -2151,7 +2161,6 @@ Stock Number,Stock Name
 102937,Kesoram Industries Ltd.
 216065,Jyoti CNC Automation Ltd.
 215216,Craftsman Automation Ltd.
-317635,Vishal Mega Mart Ltd
 315904,Sagility India Ltd.
 317139,NTPC Green Energy Ltd.
 212793,Carraro India Ltd.
@@ -2169,16 +2178,9 @@ Stock Number,Stock Name
 222961,Kirloskar Oil Eng Limited
 210481,Epigral Limited
 100730,NOCIL Limited
-117569,KEI Industries Ltd
-132424,Godrej Consumer Products Ltd
-223430,Vedant Fashions Ltd
-106943,J.B. Chemicals & Pharmaceuticals Ltd
-307332,Piramal Pharma Ltd
-209232,Bikaji Foods International Ltd
 200020,Brigade Enterprises Ltd
 221033,Aster DM Healthcare Ltd
 190003,Karur Vysya Bank Ltd
-106401,Deepak Nitrite Ltd
 104067,Zensar Technologies Ltd
 119600,CCL Products (India) Ltd
 132889,K.P.R. Mill Ltd
@@ -2235,6 +2237,41 @@ Stock Number,Stock Name
 226156,Anand Rathi Wealth Ltd
 316108,Sobha Ltd - Partly Paid
 304701,Campus Activewear Ltd
+200054,V-Guard Industries Ltd
+100125,EID Parry India Ltd
+132497,Radico Khaitan Ltd
+297629,Suven Pharmaceuticals Ltd
+306605,Innova Captab Ltd
+100135,EPL Ltd
+132835,ICRA Ltd
+111196,Can Fin Homes Ltd
+226076,Triveni Turbine Ltd
+132443,Cera Sanitaryware Ltd
+229238,Affle India Ltd
+100620,Great Eastern Shipping Co Ltd
+105533,Westlife Foodworld Ltd
+235955,Home First Finance Co India Ltd
+304682,TBO Tek Ltd
+126797,Greenply Industries Ltd
+132714,KEC International Ltd
+132221,Sonata Software Ltd
+232353,Rhi Magnesita India Ltd
+122113,Timken India Ltd
+209587,VRL Logistics Ltd
+233156,Rossari Biotech Ltd
+123025,Safari Industries (India) Ltd
+303180,Prudent Corporate Advisory Services Ltd
+232592,Latent View Analytics Ltd
+105255,GMM Pfaudler Ltd
+218761,Mold Tek Packaging Ltd
+272156,Greenlam Industries Ltd
+200094,PNC Infratech Ltd
+308764,Honasa Consumer Ltd
+288451,Fine Organic Industries Ltd
+100730,NOCIL Ltd
+100101,Arvind Ltd
+132689,PVR Inox Ltd
+316108,Sobha Ltd
 132809,FIRSTSOURCE SOLUTIONS LTD
 132221,SONATA SOFTWARE LTD
 213672,NEWGEN SOFTWARE TECHNOLOGIES LTD
@@ -2327,7 +2364,6 @@ Stock Number,Stock Name
 221877,EQ - WAAREE ENERGIES LIMITED
 124494,IPCA Laboratories Ltd
 106395,Coromandel International Ltd
-207872,Bharti Hexacom Ltd
 103100,Phoenix Mills Ltd
 200055,REC Ltd
 212427,Alkem Laboratories Ltd
@@ -2338,10 +2374,8 @@ Stock Number,Stock Name
 100387,Shree Cement Ltd
 100104,Hindustan Petroleum Corporation Ltd
 219494,Hindustan Aeronautics Ltd
-122113,Timken India Ltd
 132129,Hexaware Technologies Ltd
 132514,Indraprastha Gas Ltd
-221877,Waaree Energies Ltd
 318585,UPL Ltd -Partly Paid
 100238,Whirlpool Of India Ltd
 318217,UPL Ltd - Rights Entitlements $$
@@ -2352,7 +2386,7 @@ Stock Number,Stock Name
 209967,Indus Towers Ltd (Prev Bharti Infratel Ltd)
 100877,Apollo Tyres Ltd
 122275,GE Vernova T and D India Ltd
-207901,BSE Ltd
+132777,Info Edge (India) Ltd
 207959,Chalet Hotels Ltd
 126299,MphasiS Ltd
 120056,TVS Holdings Ltd
@@ -2376,45 +2410,11 @@ Stock Number,Stock Name
 249927,Gujarat Gas Co Ltd
 131531,Hatsun Agro Product Ltd
 100674,Sanofi India Ltd
-303180,Prudent Corporate Advisory Services Ltd
-132714,KEC International Ltd
 302988,FSN E-Commerce Ventures Ltd
-132689,PVR Inox Ltd
-132221,Sonata Software Ltd
 200091,Oil India Ltd
 114167,Ganesha Ecosphere Limited
 217667,SIP Technologies & Export Limited**
 217689,Magnasound (India) Limited**
-200054,V-Guard Industries Ltd
-132497,Radico Khaitan Ltd
-100125,EID Parry India Ltd
-297629,Suven Pharmaceuticals Ltd
-100135,EPL Ltd
-132835,ICRA Ltd
-306605,Innova Captab Ltd
-111196,Can Fin Homes Ltd
-132443,Cera Sanitaryware Ltd
-226076,Triveni Turbine Ltd
-235955,Home First Finance Co India Ltd
-105533,Westlife Foodworld Ltd
-229238,Affle India Ltd
-100620,Great Eastern Shipping Co Ltd
-126797,Greenply Industries Ltd
-123025,Safari Industries (India) Ltd
-233156,Rossari Biotech Ltd
-209587,VRL Logistics Ltd
-232592,Latent View Analytics Ltd
-105255,GMM Pfaudler Ltd
-232353,Rhi Magnesita India Ltd
-218761,Mold Tek Packaging Ltd
-304682,TBO Tek Ltd
-308764,Honasa Consumer Ltd
-272156,Greenlam Industries Ltd
-200094,PNC Infratech Ltd
-100730,NOCIL Ltd
-288451,Fine Organic Industries Ltd
-100101,Arvind Ltd
-316108,Sobha Ltd
 132714,KEC INTERNATIONAL LTD
 225850,NIVA BUPA HEALTH INSURANCE COMPANY LTD
 250870,INVENTURUS KNOWLEDGE SOLUTIONS LTD
@@ -2669,6 +2669,7 @@ Stock Number,Stock Name
 190032,Zen Technologies Limited
 132808,Pearl Global Industries Limited
 100620,The Great Eastern Shipping Co. Ltd.
+123457,Linde India Ltd
 106655,SUDARSHAN CHEMICAL INDUSTRIES LTD
 100164,GODREJ INDUSTRIES LTD
 100042,BASF INDIA LTD
@@ -2734,7 +2735,6 @@ Stock Number,Stock Name
 200115,Titagarh Rail Systems Ltd.
 219700,Mazagon Dock Shipbuilders Ltd.
 310018,Netweb Technologies India Ltd.
-123457,Linde India Ltd
 209420,Tata Technologies Ltd.
 275037,Elin Electronics Ltd.
 250978,Suraksha Diagnostic Limited
@@ -3668,6 +3668,8 @@ Stock Number,Stock Name
 300134,Catalent Inc
 298487,Qorvo Inc
 317492,Amentum Holdings Inc
+132178,Engineers India Ltd
+208690,MOIL Ltd
 288401,Orient Electric Ltd
 293665,ARVIND FASHIONS LTD
 200094,PNC INFRATECH LTD
@@ -3708,9 +3710,6 @@ Stock Number,Stock Name
 132349,Transport Corporation of India Ltd
 284289,Make My Trip Ltd (USD)
 313495,Unicommerce Esolutions Limited
-132178,Engineers India Ltd
-208690,MOIL Ltd
-228460,Bajaj Housing Finance Ltd
 313834,Grasim Industries Ltd Partly Paid Up FV1
 274041,DR. AGARWALS HEALTH CARE LTD
 200057,AFCONS INFRASTRUCTURE LTD
@@ -3800,6 +3799,8 @@ Stock Number,Stock Name
 117385,Symphony Limited
 109496,ITD Cementation India Limited
 307636,Enviro Infra Engineers Limited
+117168,SUBROS LIMITED
+314935,PREMIER ENERGIES LIMITED
 303125,Le Travenues Technology Pvt. Ltd.
 116030,Pakka Ltd.
 302762,One Mobikwik Systems Pvt. Ltd.
@@ -3819,7 +3820,6 @@ Stock Number,Stock Name
 105790,SCHAEFFLER (I) LTD
 100674,SANOFI INDIA LTD
 130517,RELAXO FOOTWEARS LTD
-314935,PREMIER ENERGIES LIMITED
 123323,Kovai Medical Center and Hospital Limited
 106690,Unichem Laboratories Limited
 232604,Medplus Health Services Limited
@@ -3952,6 +3952,11 @@ Stock Number,Stock Name
 307329,Blue Jet Healthcare Limited
 100249,KSB Ltd
 200009,Kolte Patil Developers Limited
+216369,NHPC Ltd
+219700,Mazagon Dock Shipbuilders Ltd
+100092,CRISIL Ltd
+132259,Apar Industries Ltd
+220350,L&T Finance Ltd
 100188,Hindustan Zinc Limited
 300671,Alibaba Group Holding Limited
 219185,Tencent Holdings Limited
@@ -3968,6 +3973,7 @@ Stock Number,Stock Name
 317104,EMA Partners India Limited
 312884,Gopal Snacks Limited
 221194,Teamlease Services Limited
+274041,Dr. Agarwals Health Care Ltd
 275316,CarTrade Tech Ltd.
 228974,360 ONE WAM Ltd.
 281585,BLS International Services Ltd.
@@ -3989,11 +3995,6 @@ Stock Number,Stock Name
 217792,Virtual Dynamics Software Ltd @
 290269,Indiamart Intermesh Ltd
 307061,Avalon Technologies Ltd
-216369,NHPC Ltd
-100092,CRISIL Ltd
-219700,Mazagon Dock Shipbuilders Ltd
-132259,Apar Industries Ltd
-220350,L&T Finance Ltd
 123704,Mastek Limited
 205474,SIV Industries Limited #
 213978,Royal Indutries Limited #
@@ -4026,7 +4027,6 @@ Stock Number,Stock Name
 209089,REPCO HOME FINANCE LTD
 190003,KARUR VYSYA BANK LTD
 302986,FINO PAYMENTS BANK LTD
-274041,Dr. Agarwals Health Care Ltd
 208361,HYUNDAI MOTOR INDIA LTD
 132155,GAIL India Limited
 100670,Gujarat Narmada Valley Fertilizers & Chemicals Ltd
@@ -4241,6 +4241,8 @@ Stock Number,Stock Name
 318217,UPL Limited- Right Share
 190006,Amrutanjan Health Care Ltd.
 100163,Godfrey Phillips India Ltd.
+132638,Shoppers Stop Ltd
+107880,V.I.P. Industries Ltd
 100390,Reliance Infrastructure Limited
 113023,Nava Limited
 132922,Edelweiss Financial Services Limited
@@ -4335,8 +4337,6 @@ Stock Number,Stock Name
 106879,Gujarat Themis Biosyn Ltd
 126829,Confidence Petroleum India Ltd
 100252,LAKSHMI MACHINE WORKS LTD
-132638,Shoppers Stop Ltd
-107880,V.I.P. Industries Ltd
 115055,Anant Raj Ltd.
 219691,Cochin Shipyard Ltd.
 100490,Bajaj Holdings & Investment Ltd
@@ -4346,6 +4346,7 @@ Stock Number,Stock Name
 305799,KFIN TECHNOLOGIES LTD
 132612,INDOCO REMEDIES LTD
 308651,ZAGGLE PREPAID OCEAN SERVICES LTD
+210039,Concord Biotech Ltd
 220532,PTC India Financial Services Limited
 221129,GPT Infraprojects Limited
 218533,Narayana Hrudayalaya Ltd
@@ -4365,7 +4366,6 @@ Stock Number,Stock Name
 313296,Awfis Space Solutions Ltd
 315936,CapitalNumbers Infotech Limited
 132285,Geojit Financial Services Limited
-210039,Concord Biotech Ltd
 132349,Transport Corporation of India Limited
 284184,PSP Projects Limited
 132686,Kernex Microsystems (India) Limited
@@ -4601,6 +4601,9 @@ Stock Number,Stock Name
 308582,IRM Energy Ltd.
 209127,SP Apparels Ltd.
 105412,Wendt India Ltd.
+313768,Garuda Construction and Engineering Limited
+313455,Sanstar Limited
+305788,Yatharth Hospital & Trauma Care Services Limited
 237044,Berkshire Hathaway Inc - Class B
 100235,Kalyani Steels Ltd.
 300790,TARC Ltd.
@@ -4693,9 +4696,6 @@ Stock Number,Stock Name
 218199,Hang Lung Properties Ltd
 306658,Zhongsheng Group Holdings Limited
 220853,New World Development
-313768,Garuda Construction and Engineering Limited
-313455,Sanstar Limited
-305788,Yatharth Hospital & Trauma Care Services Limited
 104741,Indian Hume Pipe Company Limited
 103101,Marathon Nextgen Realty Limited
 221842,CREDITACCESS GRAMEEN LTD
@@ -4704,6 +4704,8 @@ Stock Number,Stock Name
 314769,ECOS INDIA MOBILITY AND HOSPITALITY LTD
 319554,UPL Limited- Partly Paid up**
 313834,Grasim Industries Limited- Partly Paid up**
+106590,PCBL LIMITED
+287382,Apollo Micro Systems Limited
 122275,GE T&D INDIA LIMITED
 100008,Amara Raja Energy &  Mobility Limited
 305799,KFin Technologies Ltd
@@ -4765,6 +4767,7 @@ Stock Number,Stock Name
 229901,RATTANINDIA ENTERPRISES LTD.
 132872,SUN PHARMA ADVAN. RES.CO.LTD
 214816,AKUMS DRUGS AND PHARMACEUTICALS LIMITED
+249927,Gujarat Gas Ltd
 132258,TRANSTREAM INDIA COM LTD  #
 131316,Sandur Laminates Ltd @
 239409,Crystal Cable Industries Ltd @
@@ -4813,13 +4816,10 @@ Stock Number,Stock Name
 132834,Camlin Fine Sciences Limited
 278701,"Five-Star Business Finance Ltd,"
 132215,AXIS Bank Ltd.
-249927,Gujarat Gas Ltd
 225178,CHECK POINT SOFTWARE T ORD
 317899,Diageo Sp ADR Rep 4 Sh
 287493,VEEVA SYSTEMS INC
 237596,Baidu Inc Spon ADR
-106590,PCBL LIMITED
-287382,Apollo Micro Systems Limited
 237831,JSW INFRASTRUCTURE LIMITED
 307332,PIRAMAL PHARMA LIMITED
 100042,BASF INDIA LTD.
@@ -5374,7 +5374,6 @@ Stock Number,Stock Name
 208646,MSTC Ltd
 105726,IFB Industries Ltd
 123398,JOHNSON CONTROLS HITACHI AIR CON IND LTD
-117168,SUBROS LIMITED
 211740,HAPPY FORGINGS LIMITED
 123630,NATIONAL FERTILIZERS LTD
 123319,BALMER LAWRIE & CO.LTD.
