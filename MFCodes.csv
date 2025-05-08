@@ -443,6 +443,7 @@ DSP Healthcare Fund-Reg(G),DSP Mutual Fund,36002,DSP Healthcare Fund-Reg(G)
 Kotak Debt Hybrid Fund(G),Kotak Mahindra Mutual Fund,2051,Kotak Debt Hybrid Fund(G)
 HDFC Gilt Fund(G),HDFC Mutual Fund,1269,HDFC Gilt Fund(G)
 SBI Long Duration Fund-Reg(G),SBI Mutual Fund,46864,SBI Long Duration Fund-Reg(G)
+Helios Flexi Cap Fund-Reg(G),Helios Mutual Fund,48299,Helios Flexi Cap Fund-Reg(G)
 Tata Flexi Cap Fund-Reg(G),Tata Mutual Fund,39283,Tata Flexi Cap Fund-Reg(G)
 ICICI Pru Bharat Consumption Fund-Reg(G),ICICI Prudential Mutual Fund,41946,ICICI Pru Bharat Consumption Fund-Reg(G)
 Sundaram Small Cap Fund(G),Sundaram Mutual Fund,3052,Sundaram Small Cap Fund(G)
@@ -468,7 +469,6 @@ Kotak Dynamic Bond Fund-Reg(G),Kotak Mahindra Mutual Fund,5430,Kotak Dynamic Bon
 Axis Balanced Advantage Fund-Reg(G),Axis Mutual Fund,37918,Axis Balanced Advantage Fund-Reg(G)
 UTI Short Duration Fund-Reg(G),UTI Mutual Fund,3656,UTI Short Duration Fund-Reg(G)
 DSP Multi Asset Allocation Fund-Reg(G),DSP Mutual Fund,48206,DSP Multi Asset Allocation Fund-Reg(G)
-Helios Flexi Cap Fund-Reg(G),Helios Mutual Fund,48299,Helios Flexi Cap Fund-Reg(G)
 ICICI Pru Nifty Bank ETF,ICICI Prudential Mutual Fund,32451,ICICI Pru Nifty Bank ETF
 HDFC Business Cycle Fund-Reg(G),HDFC Mutual Fund,46445,HDFC Business Cycle Fund-Reg(G)
 WOC Mid Cap Fund-Reg(G),WhiteOak Capital Mutual Fund,46769,WOC Mid Cap Fund-Reg(G)
@@ -655,6 +655,7 @@ Bandhan Bond Fund - Medium Term Plan-Reg(G),Bandhan Mutual Fund,1084,Bandhan Bon
 SBI Retirement Benefit Fund-Aggressive Hybrid Plan-Reg(G),SBI Mutual Fund,30399,SBI Retirement Benefit Fund-Aggressive Hybrid Plan-Reg(G)
 HSBC Balanced Advantage Fund-Reg(G),HSBC Mutual Fund,13019,HSBC Balanced Advantage Fund-Reg(G)
 Canara Rob Balanced Advantage Fund-Reg(G),Canara Robeco Mutual Fund,48747,Canara Rob Balanced Advantage Fund-Reg(G)
+Old Bridge Focused Equity Fund-Reg(G),Old Bridge Mutual Fund,48527,Old Bridge Focused Equity Fund-Reg(G)
 Aditya Birla SL Conglomerate Fund-Reg(G),Aditya Birla Sun Life Mutual Fund,49209,Aditya Birla SL Conglomerate Fund-Reg(G)
 Baroda BNP Paribas Large & Mid Cap Fund-Reg(G),Baroda BNP Paribas Mutual Fund,44222,Baroda BNP Paribas Large & Mid Cap Fund-Reg(G)
 360 ONE Flexicap Fund-Reg(G),360 ONE Mutual Fund,47567,360 ONE Flexicap Fund-Reg(G)
@@ -690,7 +691,6 @@ Aditya Birla SL Transportation and Logistics Fund-Reg(G),Aditya Birla Sun Life M
 Axis Dynamic Bond Fund-Reg(G),Axis Mutual Fund,12380,Axis Dynamic Bond Fund-Reg(G)
 ICICI Pru Nifty Next 50 ETF,ICICI Prudential Mutual Fund,39950,ICICI Pru Nifty Next 50 ETF
 ICICI Pru Exports & Services Fund(G),ICICI Prudential Mutual Fund,1680,ICICI Pru Exports & Services Fund(G)
-Old Bridge Focused Equity Fund-Reg(G),Old Bridge Mutual Fund,48527,Old Bridge Focused Equity Fund-Reg(G)
 Invesco India Largecap Fund(G),Invesco Mutual Fund,7870,Invesco India Largecap Fund(G)
 Bank of India ELSS Tax Saver-Reg(G),Bank of India Mutual Fund,7516,Bank of India ELSS Tax Saver-Reg(G)
 Mahindra Manulife Liquid Fund-Reg(G),Mahindra Manulife Mutual Fund,35846,Mahindra Manulife Liquid Fund-Reg(G)
@@ -1140,6 +1140,7 @@ Union Arbitrage Fund-Reg(G),Union Mutual Fund,42524,Union Arbitrage Fund-Reg(G)
 Nippon India Nifty Auto ETF,Nippon India Mutual Fund,45713,Nippon India Nifty Auto ETF
 Edelweiss Gold and Silver ETF FoF-Reg(G),Edelweiss Mutual Fund,46800,Edelweiss Gold and Silver ETF FoF-Reg(G)
 Motilal Oswal Gold and Silver ETFs FoF-Reg(G),Motilal Oswal Mutual Fund,17788,Motilal Oswal Gold and Silver ETFs FoF-Reg(G)
+Helios Balanced Advantage Fund-Reg(G),Helios Mutual Fund,48678,Helios Balanced Advantage Fund-Reg(G)
 Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF,Mirae Asset Mutual Fund,48681,Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF
 SBI FMP-51-1846D-Reg(G),SBI Mutual Fund,45889,SBI FMP-51-1846D-Reg(G)
 Quantum Gold Fund ETF,Quantum Mutual Fund,4326,Quantum Gold Fund ETF
@@ -1148,7 +1149,7 @@ ITI Value Fund-Reg(G),ITI Mutual Fund,45382,ITI Value Fund-Reg(G)
 Bandhan US Equity FoF-Reg(G),Bandhan Mutual Fund,45674,Bandhan US Equity FoF-Reg(G)
 Bandhan US Equity FoF-Reg(IDCW),Bandhan Mutual Fund,45675,Bandhan US Equity FoF-Reg(IDCW)
 Navi Large & Midcap Fund-Reg(G),Navi Mutual Fund,31897,Navi Large & Midcap Fund-Reg(G)
-Helios Balanced Advantage Fund-Reg(G),Helios Mutual Fund,48678,Helios Balanced Advantage Fund-Reg(G)
+Helios Large & Mid Cap Fund-Reg(G),Helios Mutual Fund,49245,Helios Large & Mid Cap Fund-Reg(G)
 Union Value Fund-Reg(G),Union Mutual Fund,41740,Union Value Fund-Reg(G)
 Mirae Asset Global X Artificial Intelligence & Technology ETF FoF-Reg(G),Mirae Asset Mutual Fund,45380,Mirae Asset Global X Artificial Intelligence & Technology ETF FoF-Reg(G)
 Nippon India ETF Nifty 100,Nippon India Mutual Fund,17643,Nippon India ETF Nifty 100
@@ -1171,7 +1172,6 @@ Groww Nifty Total Market Index Fund-Reg(G),Groww Mutual Fund,48247,Groww Nifty T
 Bandhan Equity Savings Fund-Reg(G),Bandhan Mutual Fund,5300,Bandhan Equity Savings Fund-Reg(G)
 Quant Consumption Fund-Reg(G),Quant Mutual Fund,48342,Quant Consumption Fund-Reg(G)
 SBI BSE Sensex Index Fund-Reg(G),SBI Mutual Fund,47966,SBI BSE Sensex Index Fund-Reg(G)
-Helios Large & Mid Cap Fund-Reg(G),Helios Mutual Fund,49245,Helios Large & Mid Cap Fund-Reg(G)
 Invesco India Business Cycle Fund-Reg(G),Invesco Mutual Fund,49315,Invesco India Business Cycle Fund-Reg(G)
 Edelweiss Banking and PSU Debt Fund-Reg(G),Edelweiss Mutual Fund,23296,Edelweiss Banking and PSU Debt Fund-Reg(G)
 ICICI Pru Income plus Arbitrage Active FOF(G),ICICI Prudential Mutual Fund,1701,ICICI Pru Income plus Arbitrage Active FOF(G)
@@ -1322,6 +1322,7 @@ SBI FMP-76-1221D-Reg(G),SBI Mutual Fund,47541,SBI FMP-76-1221D-Reg(G)
 ICICI Pru Nifty 200 Quality 30 ETF,ICICI Prudential Mutual Fund,48118,ICICI Pru Nifty 200 Quality 30 ETF
 HDFC FMP-Sr 46-1158D-July 2022-Reg(G),HDFC Mutual Fund,46672,HDFC FMP-Sr 46-1158D-July 2022-Reg(G)
 Tata Silver ETF,Tata Mutual Fund,48436,Tata Silver ETF
+Helios Financial Services Fund-Reg(G),Helios Mutual Fund,48897,Helios Financial Services Fund-Reg(G)
 Bandhan Nifty 100 Index Fund-Reg(G),Bandhan Mutual Fund,46119,Bandhan Nifty 100 Index Fund-Reg(G)
 Kotak Nifty 100 Low Volatility 30 ETF,Kotak Mahindra Mutual Fund,45688,Kotak Nifty 100 Low Volatility 30 ETF
 ICICI Pru Nifty Oil & Gas ETF,ICICI Prudential Mutual Fund,33836,ICICI Pru Nifty Oil & Gas ETF
@@ -1346,7 +1347,6 @@ Helios Overnight Fund-Reg(G),Helios Mutual Fund,48295,Helios Overnight Fund-Reg(
 Union Retirement Fund-Reg(G),Union Mutual Fund,45735,Union Retirement Fund-Reg(G)
 Edelweiss Silver ETF,Edelweiss Mutual Fund,48344,Edelweiss Silver ETF
 Tata BSE Select Business Groups Index Fund-Reg(G),Tata Mutual Fund,49326,Tata BSE Select Business Groups Index Fund-Reg(G)
-Helios Financial Services Fund-Reg(G),Helios Mutual Fund,48897,Helios Financial Services Fund-Reg(G)
 Franklin India G-Sec Fund(G),Franklin Templeton Mutual Fund,3373,Franklin India G-Sec Fund(G)
 LIC MF Value Fund-Reg(G),LIC Mutual Fund,39956,LIC MF Value Fund-Reg(G)
 Edelweiss Nifty 50 Index Fund-Reg(G),Edelweiss Mutual Fund,45957,Edelweiss Nifty 50 Index Fund-Reg(G)
@@ -1476,6 +1476,7 @@ Edelweiss ASEAN Equity Off-Shore Fund-Reg(G),Edelweiss Mutual Fund,13404,Edelwei
 Nippon India Strategic Debt Fund(G),Nippon India Mutual Fund,21911,Nippon India Strategic Debt Fund(G)
 Mirae Asset Nifty India Manufacturing ETF FoF-Reg(G),Mirae Asset Mutual Fund,46053,Mirae Asset Nifty India Manufacturing ETF FoF-Reg(G)
 ICICI Pru Nifty50 Value 20 Index Fund-Reg(G),ICICI Prudential Mutual Fund,48523,ICICI Pru Nifty50 Value 20 Index Fund-Reg(G)
+Angel One Nifty 1D Rate Liquid ETF(G),Angel One Mutual Fund,49740,Angel One Nifty 1D Rate Liquid ETF(G)
 TRUSTMF Money Market Fund-Reg(G),Trust Mutual Fund,46735,TRUSTMF Money Market Fund-Reg(G)
 Sundaram Nifty 100 Equal Weight Fund(G),Sundaram Mutual Fund,2384,Sundaram Nifty 100 Equal Weight Fund(G)
 UTI NIFTY50 Equal Weight Index Fund-Reg(G),UTI Mutual Fund,47962,UTI NIFTY50 Equal Weight Index Fund-Reg(G)
@@ -1555,6 +1556,7 @@ Aditya Birla SL FTP-UJ-1110D-Reg(G),Aditya Birla Sun Life Mutual Fund,47848,Adit
 Motilal Oswal Asset Allocation Passive FoF-Aggressive-Reg(G),Motilal Oswal Mutual Fund,45344,Motilal Oswal Asset Allocation Passive FoF-Aggressive-Reg(G)
 Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund-Reg(G),Tata Mutual Fund,48786,Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund-Reg(G)
 Nippon India FHF-XLIV-1-1743D(G),Nippon India Mutual Fund,46914,Nippon India FHF-XLIV-1-1743D(G)
+Helios Mid Cap Fund-Reg(G),Helios Mutual Fund,49111,Helios Mid Cap Fund-Reg(G)
 Navi Liquid Fund-Reg(G),Navi Mutual Fund,8544,Navi Liquid Fund-Reg(G)
 Kotak BSE PSU Index Fund-Reg(G),Kotak Mahindra Mutual Fund,48890,Kotak BSE PSU Index Fund-Reg(G)
 Mirae Asset Nifty SDL June 2028 Index Fund-Reg(G),Mirae Asset Mutual Fund,47763,Mirae Asset Nifty SDL June 2028 Index Fund-Reg(G)
@@ -1595,7 +1597,6 @@ ICICI Pru BSE Liquid Rate ETF(G),ICICI Prudential Mutual Fund,49518,ICICI Pru BS
 ITI Liquid Fund-Reg(G),ITI Mutual Fund,43396,ITI Liquid Fund-Reg(G)
 ICICI Pru Nifty 5 yr Benchmark G-SEC ETF,ICICI Prudential Mutual Fund,46440,ICICI Pru Nifty 5 yr Benchmark G-SEC ETF
 HSBC Brazil Fund(G),HSBC Mutual Fund,8587,HSBC Brazil Fund(G)
-Helios Mid Cap Fund-Reg(G),Helios Mutual Fund,49111,Helios Mid Cap Fund-Reg(G)
 ICICI Pru Nifty India Consumption ETF,ICICI Prudential Mutual Fund,45678,ICICI Pru Nifty India Consumption ETF
 Union Gold ETF FoF-Reg(G),Union Mutual Fund,49466,Union Gold ETF FoF-Reg(G)
 Bank of India Midcap Tax Fund-Sr 1-Reg(G),Bank of India Mutual Fund,38076,Bank of India Midcap Tax Fund-Sr 1-Reg(G)
@@ -1691,6 +1692,7 @@ Aditya Birla SL Nifty Healthcare ETF,Aditya Birla Sun Life Mutual Fund,45695,Adi
 SBI FMP-6-3668D-Reg(G),SBI Mutual Fund,43566,SBI FMP-6-3668D-Reg(G)
 Motilal Oswal 5 Year G-Sec FoF-Reg(G),Motilal Oswal Mutual Fund,45925,Motilal Oswal 5 Year G-Sec FoF-Reg(G)
 WOC Equity Savings Fund-Reg(G),WhiteOak Capital Mutual Fund,49513,WOC Equity Savings Fund-Reg(G)
+Angel One Nifty Total Market Index Fund-Reg(G),Angel One Mutual Fund,49647,Angel One Nifty Total Market Index Fund-Reg(G)
 Kotak FMP-305-1200D(G),Kotak Mahindra Mutual Fund,47432,Kotak FMP-305-1200D(G)
 SBI LT Advantage Fund-II-Reg(G),SBI Mutual Fund,30485,SBI LT Advantage Fund-II-Reg(G)
 Groww Nifty India Defence ETF FOF-Reg(G),Groww Mutual Fund,49023,Groww Nifty India Defence ETF FOF-Reg(G)
@@ -1711,7 +1713,6 @@ HDFC Nifty 1D Rate Liquid ETF(G),HDFC Mutual Fund,46470,HDFC Nifty 1D Rate Liqui
 Invesco India - Invesco Global Equity Income FoF-Reg(G),Invesco Mutual Fund,24405,Invesco India - Invesco Global Equity Income FoF-Reg(G)
 Nippon India Inv-Qrtly-II(G),Nippon India Mutual Fund,2611,Nippon India Inv-Qrtly-II(G)
 Kotak NIFTY MNC ETF,Kotak Mahindra Mutual Fund,45729,Kotak NIFTY MNC ETF
-Angel One Nifty Total Market Index Fund-Reg(G),Angel One Mutual Fund,49647,Angel One Nifty Total Market Index Fund-Reg(G)
 Sundaram LT Tax Adv Fund-Sr III-Reg(G),Sundaram Mutual Fund,38374,Sundaram LT Tax Adv Fund-Sr III-Reg(G)
 Bank of India Midcap Tax Fund-Sr 2-Reg(G),Bank of India Mutual Fund,39958,Bank of India Midcap Tax Fund-Sr 2-Reg(G)
 Aditya Birla SL Nifty IT ETF,Aditya Birla Sun Life Mutual Fund,45697,Aditya Birla SL Nifty IT ETF
@@ -1734,7 +1735,6 @@ PGIM India CRISIL IBX Gilt Index - Apr 2028 Fund-Reg(G),PGIM India Mutual Fund,4
 Kotak BSE Sensex ETF,Kotak Mahindra Mutual Fund,5285,Kotak BSE Sensex ETF
 Bandhan Nifty 50 ETF,Bandhan Mutual Fund,34198,Bandhan Nifty 50 ETF
 Kotak Nifty India Tourism Index Fund-Reg(G),Kotak Mahindra Mutual Fund,49021,Kotak Nifty India Tourism Index Fund-Reg(G)
-Angel One Nifty 1D Rate Liquid ETF(G),Angel One Mutual Fund,49740,Angel One Nifty 1D Rate Liquid ETF(G)
 Aditya Birla SL Retirement Fund-50-Reg(G),Aditya Birla Sun Life Mutual Fund,42774,Aditya Birla SL Retirement Fund-50-Reg(G)
 Baroda BNP Paribas Banking and PSU Bond Fund-Reg(G),Baroda BNP Paribas Mutual Fund,44154,Baroda BNP Paribas Banking and PSU Bond Fund-Reg(G)
 SBI Nifty50 Equal Weight ETF,SBI Mutual Fund,48514,SBI Nifty50 Equal Weight ETF
@@ -1784,9 +1784,9 @@ Aditya Birla SL Multi-Index FoF-Reg(G),Aditya Birla Sun Life Mutual Fund,46956,A
 Motilal Oswal BSE Quality ETF,Motilal Oswal Mutual Fund,46743,Motilal Oswal BSE Quality ETF
 Bandhan BSE Healthcare Index Fund-Reg(G),Bandhan Mutual Fund,48745,Bandhan BSE Healthcare Index Fund-Reg(G)
 Aditya Birla SL Retirement Fund-50 Plus-Debt Plan-Reg(G),Aditya Birla Sun Life Mutual Fund,42778,Aditya Birla SL Retirement Fund-50 Plus-Debt Plan-Reg(G)
+Angel One Nifty Total Market ETF,Angel One Mutual Fund,49646,Angel One Nifty Total Market ETF
 HDFC NIFTY100 Quality 30 ETF,HDFC Mutual Fund,46043,HDFC NIFTY100 Quality 30 ETF
 DSP BSE Sensex Next 30 ETF,DSP Mutual Fund,49536,DSP BSE Sensex Next 30 ETF
-Angel One Nifty Total Market ETF,Angel One Mutual Fund,49646,Angel One Nifty Total Market ETF
 Navi BSE Sensex Index Fund-Reg(G),Navi Mutual Fund,48193,Navi BSE Sensex Index Fund-Reg(G)
 Franklin India Feeder - Templeton European Opportunities Fund(G),Franklin Templeton Mutual Fund,26629,Franklin India Feeder - Templeton European Opportunities Fund(G)
 Kotak BSE Housing Index Fund-Reg(G),Kotak Mahindra Mutual Fund,48163,Kotak BSE Housing Index Fund-Reg(G)
@@ -1866,3 +1866,4 @@ ICICI Pru Nifty EV & New Age Automotive ETF FOF-Reg(G),ICICI Prudential Mutual F
 Tata BSE Quality Index Fund-Reg(G),Tata Mutual Fund,49736,Tata BSE Quality Index Fund-Reg(G)
 Quant Arbitrage Fund-Reg(G),Quant Mutual Fund,49743,Quant Arbitrage Fund-Reg(G)
 Kotak Nifty Top 10 Equal Weight Index Fund-Reg(G),Kotak Mahindra Mutual Fund,49776,Kotak Nifty Top 10 Equal Weight Index Fund-Reg(G)
+HDFC CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Reg(G),HDFC Mutual Fund,49838,HDFC CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Reg(G)
