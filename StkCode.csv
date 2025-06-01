@@ -237,6 +237,7 @@ Stock Number,Stock Name
 209097,RITES Limited
 100400,The Tata Power Company Ltd.
 132477,Union Bank of India
+318585,UPL Ltd. - PARTLY PAID-UP 0.5
 100295,Vedanta Ltd.
 222276,AGS Transact Technologies Limited
 100820,Asian Paints Limited
@@ -254,7 +255,6 @@ Stock Number,Stock Name
 100113,Steel Authority Of India Ltd.
 100420,Torrent Pharmaceuticals Ltd.
 209550,Varun Beverages Ltd
-319554,UPL Ltd.
 130965,Indian Oil Corporation Ltd.
 100410,ACC Ltd.
 100103,Bharat Heavy Electricals Ltd.
@@ -269,7 +269,6 @@ Stock Number,Stock Name
 132343,TVS Motor Company Ltd.
 111243,Cholamandalam Investment & Finance Co. Ltd.
 132504,Navin Fluorine International Ltd.
-318585,UPL Ltd. - PARTLY PAID-UP 0.5
 100271,Max Financial Services Ltd.
 100469,The Federal Bank Ltd.
 132541,Coforge Limited
@@ -489,6 +488,7 @@ Stock Number,Stock Name
 208801,NBCC (India) Ltd
 103100,PHOENIX MILLS LTD.
 208661,Mahanagar Gas Ltd
+318585,UPL Ltd
 100294,NCC Limited
 221809,INOX WIND LIMITED
 226720,KALYAN JEWELLERS INDIA LTD.
@@ -499,7 +499,6 @@ Stock Number,Stock Name
 100124,Dr.Reddy's  Laboratories Ltd.
 220018,Oberoi Realty Limited
 132814,INDIAN BANK
-319554,UPL Ltd
 210072,Dixon Technologies India Ltd
 100830,Colgate- Palmolive (India) Ltd.
 289108,DELHIVERY LTD
@@ -514,7 +513,6 @@ Stock Number,Stock Name
 210036,Computer Age Management Services Limited
 111243,CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LTD.
 132644,JK Cement Ltd.
-318585,UPL Ltd
 214179,Sona BLW Precision Forgings Ltd
 207901,BSE LTD
 111196,CAN FIN HOMES LTD.
@@ -817,6 +815,7 @@ Stock Number,Stock Name
 207673,Adani Wilmar Ltd
 132733,Sun TV Network Ltd.
 290269,Indiamart Intermesh Ltd.
+318585,UPL Ltd. (Right Share)
 218763,Dr Lal Pathlabs Ltd.
 132689,PVR INOX Ltd.
 217400,Star Health & Allied Insurance
@@ -826,9 +825,7 @@ Stock Number,Stock Name
 303157,Rategain Travel Technologies Ltd.
 100292,Heidleberg Cement India Ltd.
 132700,Entertainment Network (India) Ltd.
-319554,UPL Ltd. (Right Share)
 219464,Cognizant Tech Solutions
-318585,UPL Ltd. (Right Share)
 109480,Berger Paints India Ltd.
 132702,Gujarat State Petronet Ltd.
 208190,Galaxy Surfactants Ltd.
@@ -1004,9 +1001,8 @@ Stock Number,Stock Name
 132784,Sobha Limited
 209024,R R Kabel Limited
 210174,General Insurance Corporation of India
-226720,Kalyan Jewellers India Limited
-319554,UPL Limited- Partly Paid up **
 318585,UPL Limited- Partly Paid up **
+226720,Kalyan Jewellers India Limited
 100096,Dabur India Limited
 126299,Mphasis Limited
 100469,The Federal Bank Limited
@@ -1984,6 +1980,7 @@ Stock Number,Stock Name
 210591,ADITYA BIRLA FASHION & RETAIL LTD
 190059,APL APOLLO TUBES LTD
 126371,NMDC LTD
+318585,UPL LTD - (PARTLY PAIDUP) RIGHT ENTITLEMENTS - 26-11-2024
 131344,CONTAINER CORPORATION OF INDIA LTD
 100253,LIC HOUSING FINANCE LTD
 279527,BANDHAN BANK LTD
@@ -2072,7 +2069,6 @@ Stock Number,Stock Name
 132175,CYIENT LTD
 219300,COAL INDIA LTD
 132155,GAIL ( INDIA ) LTD
-319554,UPL LTD - (PARTLY PAIDUP) RIGHT ENTITLEMENTS - 26-11-2024
 100550,SIEMENS LTD
 124715,SUN PHARMACEUTICAL INDUSTRIES LTD
 209373,SYNGENE INTERNATIONAL LTD
@@ -2250,7 +2246,6 @@ Stock Number,Stock Name
 100877,Apollo Tyres Ltd
 132129,Hexaware Technologies Ltd
 132514,Indraprastha Gas Ltd
-319554,UPL Ltd-Partly Paid
 318585,UPL Ltd-Partly Paid ##
 209063,Cyient DLM Limited
 100444,WEST COAST PAPER MILLS LIMITED
@@ -2493,6 +2488,7 @@ Stock Number,Stock Name
 317079,Laxmi Dental Limited
 316596,Unimech Aerospace and Manufacturing Limited
 313583,KRN Heat Exchanger And Refrigeration Limited
+318585,UPL Limited ^
 272661,Suryoday Small Finance Bank Limited
 211130,GNA Axles Limited
 117421,Butterfly Gandhimathi Appliances Limited
@@ -2500,10 +2496,8 @@ Stock Number,Stock Name
 320052,Bluspring Enterprises Ltd **
 320053,Digitide Solutions Ltd **
 320220,STL Networks limited **
-319554,UPL Limited
 132524,PTC India Limited
 288853,E2E Networks Limited
-318585,UPL Limited ^
 319271,Thangamayil Jewellery Limited ^^
 100387,SHREE CEMENT LTD
 218763,DR. LAL PATH LABS LTD
@@ -3149,7 +3143,6 @@ Stock Number,Stock Name
 218067,MAHINDRA LOGISTICS LTD
 100472,SKF INDIA LTD
 267615,AAVAS FINANCIERS LTD
-318585,UPL LTD - (PARTLY PAIDUP) RIGHT ENTITLEMENTS - 26-11-2024
 132626,Pondy Oxides & Chemicals Ltd
 207945,Star Cement Limited
 109631,HEG Limited
@@ -4246,7 +4239,6 @@ Stock Number,Stock Name
 288451,FINE ORGANIC INDUSTRIES LTD
 212609,ASTEC LIFESCIENCES LTD
 221661,Aadhar Housing Finance Ltd.
-319554,UPL Limited **
 318585,UPL Limited **
 100307,NIRLON LIMITED
 100490,Bajaj Holdings & Investment Ltd
@@ -4424,7 +4416,6 @@ Stock Number,Stock Name
 316659,International Gemmological Institute India Ltd.
 313495,Unicommerce eSolutions Limited
 304102,Bharti Airtel Ltd - Partly Paid Right Shares
-319554,UPL Limited Partly Paid Up FV 1
 307061,AVALON TECHNOLOGIES LIMITED
 100660,GlaxoSmithKline Pharmaceuticals Ltd
 293862,SWIGGY LIMITED
@@ -4715,8 +4706,7 @@ Stock Number,Stock Name
 305799,KFIN Technologies Pvt Ltd.
 104341,Ravindra Energy Limited
 100296,Nahar Spinning Mills Limited
-319554,UPL Limited- Partly Paid up**
-318585,UPL Limited- Partly Paid up
+318585,UPL Limited- Partly Paid up**
 208414,Indian Renewable Energy Development Agency Ltd.
 207673,Adani Wilmar Ltd.
 217400,Star Health & Allied Insurance Co. Ltd.
@@ -4955,9 +4945,9 @@ Stock Number,Stock Name
 304884,ON SEMICONDUCTOR CORPORATION
 219066,FIRST SOLAR INC
 132921,Adani Port & Special Economic Zone Ltd
+318585,UPL Ltd.
 126951,Stylam Industries Ltd.
 318188,Onesource Specialty Pharma Ltd.
-318585,UPL Ltd.
 219700,MAZAGOAN DOCK SHIPBUILDERS LTD.
 132809,FIRSTSOURCE SOLUTIONS LTD.
 100003,AEGIS LOGISTICS LTD
@@ -5129,9 +5119,8 @@ Stock Number,Stock Name
 190032,ZEN TECHNOLOGIES LIMITED
 109631,HEG LIMITED
 304102,BHARTI AIRTEL LIMITED - PARTLY PAID
-200048,IRB INFRASTRUCTURE DEVELOPERS LIMITED
-319554,UPL LIMITED
 318585,UPL LIMITED
+200048,IRB INFRASTRUCTURE DEVELOPERS LIMITED
 132827,PAGE INDUSTRIES LIMITED
 291807,SENCO GOLD LIMITED
 266384,PDS LIMITED
