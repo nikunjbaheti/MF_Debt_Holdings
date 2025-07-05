@@ -3853,6 +3853,7 @@ Stock Number,Stock Name
 132313,MAHINDRA LIFESPACE DEVELOPERS LTD
 320845,MAHINDRA LIFESPACE DEVELOPERS LTD (RIGHT) 23-05-2025
 304549,SYRMA SGS TECHNOLOGY LTD
+211130,GNA Axles Ltd
 228974,360 ONE WAM Ltd.
 275316,CarTrade Tech Ltd.
 304549,Syrma SGS Technology Ltd.
@@ -3863,7 +3864,6 @@ Stock Number,Stock Name
 221720,DAM Capital Advisors Ltd.
 317104,EMA Partners India Limited
 312884,Gopal Snacks Limited
-211130,GNA Axles Ltd
 100655,Garware Hi-Tech Films Ltd.
 132720,Mahindra & Mahindra Financial Serv Ltd.
 103960,Bharat Bijlee Ltd.
@@ -4008,6 +4008,7 @@ Stock Number,Stock Name
 131625,Sangam Health Care Products Ltd @
 116068,Mukerian Papers Ltd @
 217792,Virtual Dynamics Software Ltd @
+102937,Kesoram Industries Limited
 274041,Dr Agarwal's Health Care Ltd.
 313296,AWFIS Space Solutions Ltd.
 250870,Inventurus Knowledge Solutions Ltd.
@@ -4019,7 +4020,6 @@ Stock Number,Stock Name
 310935,WESTERN CARRIERS (INDIA) LTD
 222255,Eris Lifesciences Ltd.
 132808,Pearl Global Industries Ltd
-102937,Kesoram Industries Limited
 320028,Siemens Energy India Ltd.
 316263,Senores Pharmaceuticals Limited
 132804,Technocraft Industries (India) Limited
@@ -4769,12 +4769,12 @@ Stock Number,Stock Name
 208808,Protean eGov Technologies Ltd.
 229218,Medi Assist Healthcare Services Ltd.
 305799,KFIN Technologies Pvt Ltd.
+318585,UPL Limited- Partly Paid up
 100674,Sanofi India Ltd
 131316,Sandur Laminates Ltd @
 239409,Crystal Cable Industries Ltd @
 239411,Tirrihannah Company Ltd @
 239410,Minerava Holdings Ltd @
-318585,UPL Limited- Partly Paid up**
 100101,Arvind Ltd.
 119126,Hindustan Foods Ltd.
 100068,Disa India Limited
@@ -4951,6 +4951,7 @@ Stock Number,Stock Name
 303157,RATEGAIN TRAVEL TECHNOLOGIES LIMITED
 280713,Crompton Greaves Consumer Electrical Ltd
 207950,CENTRAL DEPOSITORY SERVICES (INDIA) LIMI
+318585,UPL Limited- Partly Paid up**
 132215,Axis Bank Ltd $$~~
 100180,HDFC Bank Ltd ^~~
 100325,Reliance Industries Ltd #~~
@@ -5101,7 +5102,6 @@ Stock Number,Stock Name
 132395,AXISCADES Technologies Limited
 252306,ETERNAL LIMITED
 117380,Igarashi Motors Ltd
-117300,Gujarat Industries Power Company Limited
 310589,Vasa Denticity Limited
 132375,Tips Music Ltd.
 296050,INDIGO PAINTS LTD
@@ -5940,9 +5940,6 @@ Stock Number,Stock Name
 100184,HIMADRI SPECIALITY CHEMICAL LIMITED
 100870,CASTROL INDIA LIMITED
 210859,TEJAS NETWORKS LIMITED
-117354,Havells India Ltd*
-132424,Godrej Consumer Products Ltd*
-100238,Whirlpool of India Ltd
 132163,SAREGAMA INDIA LIMITED
 100645,DEEPAK FERTILIZERS AND PETRO. CORP. LTD
 131761,APOLLO PIPES LIMITED
@@ -5969,18 +5966,6 @@ Stock Number,Stock Name
 284650,Pricol Ltd.
 100188,HINDUSTAN ZINC LTD
 319996,Raymond Realty Ltd. A**
-101423,Shaily Engineering Plastics Ltd.
-293000,Kpi Green Energy Ltd.
-132668,Aurionpro Solutions Ltd.
-305653,Gmr Power & Urban Infra Ltd.
-293664,The Anup Engineering Ltd.
-218933,Rattanindia Power Ltd.
-283206,Aditya Vision Ltd.
-316995,Ventive Hospitality Ltd.
-307636,Enviro Infra Engineers Ltd.
-320220,STL Networks Ltd. A**
-320845,Mahindra Lifespace Developers Ltd. R** A**
-320456,Lloyds Engineering Works Ltd.R** A**
 320456,Lloyds Engineering Works Limited **
 100180,Hdfc Bank Limited
 132174,Icici Bank Limited
@@ -6329,7 +6314,6 @@ Stock Number,Stock Name
 130999,BALAJI AMINES LIMITED
 132872,SUN PHARMACEUTICAL INDUSTRIES LIMITED
 214437,VARROC ENGINEERING LIMITED
-292711,Flair Writing Industries Ltd
 104973,TI Financial Holding ltd.
 122074,ELGI Equipments Ltd.
 235955,HOME FIRST FINANCE CO INDIA
