@@ -2645,6 +2645,9 @@ Stock Number,Stock Name
 100547,Bharat Petroleum Corporation Ltd
 132689,PVR Inox Ltd
 132221,Sonata Software Ltd
+132630,Gokaldas Exports Ltd.
+275037,Elin Electronics Ltd.
+320350,Urban Company Ltd.
 294253,BRAINBEES SOLUTIONS LIMITED
 106285,Bayer Crop Science Ltd
 318571,Indiqube Spaces Limited
@@ -2763,6 +2766,8 @@ Stock Number,Stock Name
 117041,Ador Welding Ltd.
 271022,UNIPARTS INDIA LIMITED
 280362,RADIANT CASH MANAGEMENT SERVICES LIMITED
+124019,Kingfa Science & Technology India Ltd.
+109557,Garware Technical Fibres Ltd.
 112573,Avanti Feeds Limited
 100387,SHREE CEMENT LTD.
 100049,BHARAT ELECTRONICS LTD
@@ -2784,9 +2789,6 @@ Stock Number,Stock Name
 215216,CRAFTSMAN AUTOMATION LTD
 132155,GAIL ( INDIA ) LTD
 100087,CIPLA LTD
-132630,Gokaldas Exports Ltd.
-275037,Elin Electronics Ltd.
-109557,Garware Technical Fibres Ltd.
 226156,Anand Rathi Wealth Ltd.
 111196,Can Fin Homes Ltd.
 273557,Fusion Finance Ltd.
@@ -4019,7 +4021,6 @@ Stock Number,Stock Name
 284302,Medtronic Plc
 294047,Equifax Inc.
 225194,Gilead Sciences Inc.
-100407,Swaraj Engines Ltd.
 100124,Dr. Reddys Laboratories Ltd
 302921,S.J.S. Enterprises Ltd
 100038,Balrampur Chini Mills Ltd
@@ -4039,8 +4040,8 @@ Stock Number,Stock Name
 224342,Amazon.Com Inc
 240763,Meta Platforms
 225210,Netflix Inc.
-242153,Eureka Forbes Ltd.
 211130,GNA Axles Ltd
+242153,Eureka Forbes Ltd.
 256247,Kross Ltd.
 314769,Ecos India Mobility & Hospitality Ltd.
 302921,SJS Enterprises Ltd
@@ -4585,8 +4586,8 @@ Stock Number,Stock Name
 306605,Innova Captab Ltd.
 314700,P N Gadgil Jewellers Ltd.
 318572,Sri Lotus Developers and Realty Limited
-310935,Western Carriers India Ltd
 320350,Urban Co Ltd
+310935,Western Carriers India Ltd
 232793,Acutaas Chemicals Ltd.
 277585,Inox Green Energy Services Ltd.
 305179,Harsha Engineers International Ltd.
@@ -5076,6 +5077,7 @@ Stock Number,Stock Name
 239411,Tirrihannah Company Ltd @
 239410,Minerava Holdings Ltd @
 132834,Camlin Fine Sciences Limited
+318419,Gk Energy Limited
 100163,Godfrey Phillips India Ltd
 220350,L & T Finance Ltd
 132296,GlenMark Pharmaceuticals Ltd
@@ -5102,11 +5104,11 @@ Stock Number,Stock Name
 220884,S H Kelkar and Company Ltd.
 119126,Hindustan Foods Ltd.
 321546,Advent Hotels International Private Ltd. **
-317201,Schloss Bangalore Limited **
 226625,MAS Financial Services Ltd.
 311640,R K Swamy Ltd.
 315581,Quadrant Future Tek Ltd.
 218756,HDB Financial Services Ltd. #
+100407,Swaraj Engines Ltd.
 100068,Disa India Limited
 209492,UTI ASSET MANAGEMENT COMPANY Limited
 278701,FIVE-STAR BUSINESS FINANCE LIMITED
