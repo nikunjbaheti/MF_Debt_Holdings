@@ -2515,6 +2515,10 @@ Stock Number,Stock Name
 105255,GMM Pfaudler Ltd
 100730,NOCIL Ltd
 272156,Greenlam Industries Ltd
+130117,Privi Speciality Chemicals Ltd.
+132630,Gokaldas Exports Ltd.
+275037,Elin Electronics Ltd.
+208364,ICICI Prudential Asset Management Company Ltd.
 124494,IPCA Laboratories Ltd
 103100,Phoenix Mills Ltd
 100483,Tata Communications Ltd
@@ -2578,9 +2582,6 @@ Stock Number,Stock Name
 221554,YATRA ONLINE LTD
 223021,QUICK HEAL TECHNOLOGIES LTD
 132777,INFO EDGE (INDIA) LTD.
-132630,Gokaldas Exports Ltd.
-130117,Privi Speciality Chemicals Ltd.
-275037,Elin Electronics Ltd.
 103100,EQ - PHOENIX MILLS LTD
 100271,EQ - MAX FINANCIAL SERVICES LTD.
 100469,EQ - FEDERAL BANK LTD.
@@ -2937,8 +2938,6 @@ Stock Number,Stock Name
 223788,Ethos Ltd.
 274041,Dr Agarwals Health Care Limited
 297249,Wework India Management Limited
-221217,Wonderla Holidays Ltd.
-109557,Garware Technical Fibres Ltd.
 303107,Sapphire Foods India Ltd.
 213046,EMMVEE PHOTOVOLTAIC POWER LIMITED
 223666,DEE DEVELOPMENT ENGINEEERS LTD
@@ -2962,6 +2961,9 @@ Stock Number,Stock Name
 132868,DLF LTD.
 208607,LG ELECTRONICS INDIA LTD
 200132,BAJAJ AUTO LTD.
+221217,Wonderla Holidays Ltd.
+109557,Garware Technical Fibres Ltd.
+102330,Andhra Paper Ltd.
 132835,ICRA Ltd.
 227347,CARE Ratings Ltd.
 132218,The South Indian Bank Ltd.
@@ -4145,6 +4147,7 @@ Stock Number,Stock Name
 318616,Gem Aromatics Ltd.
 100124,Dr. Reddys Laboratories Ltd
 211130,GNA Axles Ltd
+323597,Kwality Walls India Ltd.
 304684,CAPILLARY TECHNOLOGIES
 123395,Birla 3M Ltd.
 303158,Tracxn Technologies Ltd.
@@ -4210,6 +4213,7 @@ Stock Number,Stock Name
 306625,Concord Enviro Systems Ltd.
 256461,Divgi Torqtransfer Systems Ltd.
 323597,KWALITY WALL'S INDIA LTD #
+208364,ICICI PRUDENTIAL ASSET MANAGEMENT COMPANY LTD.
 256247,Kross Ltd.
 314769,Ecos India Mobility & Hospitality Ltd.
 131266,V.S.T Tillers Tractors Ltd.
@@ -5180,6 +5184,7 @@ Stock Number,Stock Name
 112455,Lloyds Metals & Energy Ltd.
 190024,The Fertilisers and Chemicals.
 217385,The New India Assurance Company Ltd.
+323597,Kwality Walls (India) Limited**
 200115,Titagarh Rail Systems Ltd
 256247,Kross Limited
 100674,Sanofi India Ltd
@@ -5196,6 +5201,7 @@ Stock Number,Stock Name
 100490,Bajaj Holdings and Investment Ltd
 224849,ALEMBIC PHARMACEUTICALS LIMITED
 228460,BAJAJ HOUSING FINANCE LTD.
+213862,Aequs Limited
 303157,EQ - RATEGAIN TRAVEL TECHNOLOGIES LTD
 229414,EQ - NAZARA TECHNOLOGIES LTD
 208763,EQ - MTAR TECHNOLOGIES LTD
@@ -5783,6 +5789,7 @@ Stock Number,Stock Name
 215739,HATHWAY CABLE & DATACOM LIMITED
 320220,STL Networks Ltd
 112237,JAI CORP LIMITED
+208364,ICICI Prudential Asset Management Company Limited
 100408,Tata Elxsi Limited ‡
 132234,National Aluminium Company Ltd
 220741,Sammaan Capital Ltd
@@ -6039,7 +6046,6 @@ Stock Number,Stock Name
 298329,BECTON DICKINSON AND CO
 287855,IQVIA HOLDINGS INC
 225196,ILLUMINA INC
-318618,FUJIYAMA POWER SYSTEMS LTD
 132504,NAVIN FLUORINE INTERNATIONAL LTD.
 104973,TI Financial Holding ltd.
 124558,NEULAND LABORATORIES LTD.
@@ -6048,6 +6054,8 @@ Stock Number,Stock Name
 113599,HINDUSTAN COPPER LTD.
 132527,RAMKRISHNA FORGINGS LTD.
 210859,Tejas Networks Ltd
+322541,BILLIONBRAINS GARAGE VENTURES LTD (GROWW)
+318618,FUJIYAMA POWER SYSTEMS LTD
 117206,Lumax Industries Ltd*
 190003,Karur Vysya Bank Ltd*
 227331,Supriya Lifescience Ltd*
@@ -6088,6 +6096,8 @@ Stock Number,Stock Name
 132375,TIPS Music Ltd.
 132768,Fiem Industries Ltd.
 315904,Sagility Ltd.
+323093,Meesho Ltd.
+213862,Aequs Ltd.
 271875,Adani Energy Solutions Ltd
 217376,LIC of India Ltd
 209867,Adani Power Ltd
@@ -6192,7 +6202,6 @@ Stock Number,Stock Name
 132762,EQ - ACTION CONSTRUCTION EQUIPMENT
 209097,EQ - RITES LTD
 100265,EQ - MAHARASHTRA SEAMLESS LTD.
-132286,Jindal Steel & Power Ltd.
 100870,Castrol India Ltd*
 117354,Havells India Ltd*
 105200,Eicher Motors Ltd*
