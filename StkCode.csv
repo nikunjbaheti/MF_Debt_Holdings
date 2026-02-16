@@ -3126,14 +3126,13 @@ Stock Number,Stock Name
 225213,NVIDIA CORP
 296238,NOVO NORDISK ADR REPSG 1 ORD
 219159,Schneider Electric Se Ord
-304956,L'Oreal SA
+295756,L'Oreal SA
 219185,Tencent Holdings Limited
 315143,Contemporary Amperex Technology Co Limited
 282037,Sony group
 272602,NIKE Inc
 318797,Brookfield Corporation
 322971,Sony Financial Holdings INC NPV
-295756,L'Oreal SA
 132898,Power Grid Corporation of India Ltd
 219464,"Cognizant Technology Solutions Corp., A"
 316917,Ivalue Infosolutions Ltd.
@@ -4095,7 +4094,6 @@ Stock Number,Stock Name
 251390,NXP Semiconductors NV
 280756,Estee Lauder Companies-Cl A
 218212,IDEX Corp
-311222,Agilent Technologies Co Ltd
 272605,United Parcel Service Inc
 298335,Brown-Forman Corp - Class B
 267049,Clorox Company
@@ -4140,7 +4138,6 @@ Stock Number,Stock Name
 279537,BIOGEN INC ORD SHS
 289304,Campbell Soup Co
 285589,YUM CHINA HOLDINGS
-298304,Agilent Technologies Co Ltd
 300138,TERADYNE INC
 305514,Nordson Corporation
 225109,COMCAST CORP
@@ -4765,9 +4762,8 @@ Stock Number,Stock Name
 132642,JSW Holdings Limited
 111072,Piramal Finance Limited **
 318572,Sri Lotus Developers And Realty Limited
-304956,L'OREAL
-272597,LVMH MOET HENNESSY LOUIS VUITTON SE
 295756,L'OREAL
+272597,LVMH MOET HENNESSY LOUIS VUITTON SE
 296765,Hitachi Energy India Ltd
 287820,All Time Plastics Ltd
 100730,NOCIL Ltd
@@ -5848,7 +5844,7 @@ Stock Number,Stock Name
 318774,FTAI Aviation Ltd
 218211,Iberdrola SA
 304927,Adyen NV
-311553,Raytheon Technologies Corp
+298492,Raytheon Technologies Corp
 323729,Five Below Inc
 316944,Rheinmetall AG
 321478,BAWAG Group AG
@@ -5877,9 +5873,7 @@ Stock Number,Stock Name
 324345,XP Inc
 272608,Bank Mandiri Persero Tbk PT
 321979,NatWest Group PLC
-298492,Raytheon Technologies Corp
 288455,Nutrien Limited
-311552,Everest Group Ltd
 323726,Antofagasta PLC
 322380,Flutter Entertainment PLC
 323731,Shawbrook Group PLC
