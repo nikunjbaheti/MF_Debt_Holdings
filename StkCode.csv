@@ -2162,9 +2162,6 @@ Stock Number,Stock Name
 100620,The Great Eastern Shipping Company Ltd.
 213800,Popular Vehicles and Services Limited
 209344,Sumitomo Chemical India Ltd
-132630,Gokaldas Exports Ltd.
-106395,Coromandel International Ltd.
-275037,Elin Electronics Ltd.
 122275,Ge Vernova T&D India Ltd.
 207872,Bharti Hexacom Ltd.
 221842,CreditAccess Grameen Ltd.
@@ -2201,6 +2198,10 @@ Stock Number,Stock Name
 227347,Credit Analysis And Research Ltd.
 105010,Automotive Axles Ltd
 111196,Can Fin Homes Ltd.
+132630,Gokaldas Exports Ltd.
+106395,Coromandel International Ltd.
+249675,Sedemac Mechatronics Ltd.
+275037,Elin Electronics Ltd.
 312312,Taiwan Semiconductor Sp ADR
 280755,TJX ORD
 225213,Nvidia Corp Com
@@ -2932,9 +2933,6 @@ Stock Number,Stock Name
 221554,YATRA ONLINE LTD
 323093,MEESHO LTD.
 223021,QUICK HEAL TECHNOLOGIES LTD.
-221217,Wonderla Holidays Ltd.
-109557,Garware Technical Fibres Ltd.
-102330,Andhra Paper Ltd.
 296367,OLA ELECTRIC MOBILITY LIMITED
 132720,EQ - MAHINDRA & MAHINDRA FINANCIAL
 100620,EQ - GREAT EASTERN SHIPPING CO. LTD
@@ -2986,6 +2984,11 @@ Stock Number,Stock Name
 131882,KWALITY WALLS INDIA LTD
 218756,HDB FINANCIAL SERVICES LTD
 132689,PVR INOX LTD.
+221217,Wonderla Holidays Ltd.
+102330,Andhra Paper Ltd.
+106222,Styrenix Performance Materials Ltd.
+100165,Kansai Nerolac Paints Ltd.
+109557,Garware Technical Fibres Ltd.
 318188,Onesource Specialty Pharma Ltd.
 316659,International Gemmological Inst.(I) Ltd.
 210850,TATA Capital Ltd.
@@ -3046,7 +3049,6 @@ Stock Number,Stock Name
 130001,Gujarat Alkalies and Chemicals Ltd.
 315602,Sanofi Consumer Healthcare India Ltd
 294388,Ather Energy LTD.
-100165,Kansai Nerolac Paints Ltd.
 131599,FDC Ltd.
 102330,Andhra Paper Ltd
 123367,DCM Shriram Ltd.
@@ -3195,6 +3197,7 @@ Stock Number,Stock Name
 223478,Mrs Bectors Food Specialities Limited
 308021,NMDC Steel Ltd
 207673,AWL Agri Business Ltd
+324593,Raajmarg Infra Investment Trust
 323817,Adani Enterprises Limited - Partly paid up **
 288476,Utkarsh Small Finance Bank Ltd
 317079,Laxmi Dental Limited
@@ -4112,7 +4115,6 @@ Stock Number,Stock Name
 100249,Ksb Limited
 320028,Siemens Limited
 130037,Sparkle Gold Rock Limited
-211130,GNA Axles Ltd
 132734,Godawari Power & Ispat Ltd.
 132772,DCB Bank Ltd.
 200017,eClerx Services Ltd.
@@ -4151,6 +4153,7 @@ Stock Number,Stock Name
 317396,Sambhv Steel Tubes Ltd
 317343,Solarworld Energy Solutions Limited
 318902,Euro Pratik Sales Ltd.
+211130,GNA Axles Ltd
 225210,Netflix Inc.
 240763,Meta Platforms
 298292,Apple Inc.
@@ -6045,6 +6048,7 @@ Stock Number,Stock Name
 289554,Adani Green Energy Ltd
 217280,Indian Railway Finance Corporation Ltd
 323501,Adani Enterprises
+208977,Powerica Ltd.
 223187,KAYNES TECHNOLOGY INDIA LTD
 122074,ELGI EQUIPMENTS LTD.
 132144,WELSPUN CORP LTD.
@@ -6449,7 +6453,6 @@ Stock Number,Stock Name
 190064,Jai Balaji Industries Ltd.
 131120,Patel Engineering Ltd.
 100219,Jain Irrigation Systems Ltd.
-106222,Styrenix Performance Materials Ltd.
 227331,Supriya Lifescience Ltd.
 100413,Thomas Cook (India) Ltd.
 100404,Sunflag Iron & Steel Company Ltd.
